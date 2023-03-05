@@ -1,0 +1,1412 @@
+start	end	text
+0	10920	The Blue Pill. Self-improving AI. Self-improving AI is a meme that has been circulating since
+10920	18760	the 1980s. Current proponents of the idea include Wastram and Omihandro. My own summary goes
+18760	25920	something like this. If we get any kind of AGI going, no matter how slow it is and how
+25920	31480	buggy it is, we can give it access to its own source code and let it analyze it and
+31480	37280	clean up and fix the bugs and then rewrite its code to be as good as it can make it.
+37280	43760	We then start up the slightly smarter AGI and repeat the process until the AGI's get
+43760	51560	super intelligent. On the surface, this is irrefutable. We already have examples of systems
+51560	58240	improving themselves. We can buy a cheap 3D printer and then quite cheaply print out parts
+58240	65000	for a much better 3D printer. Or to make computer chips that go into computers that design better
+65000	72160	computer chips. Not to mention evolution of all species in nature. I look at it from an
+72160	77880	epistemologist point of view and say, that's a hard line reductionist idea that should
+77880	85640	not have made it out of the 20th century. The idea, as its inception, imagined an AGI
+85640	91480	as something that was written by teams of human programmers using software development
+91480	97800	tools and mathematical equations. What I think the only thing that even approximates this
+97800	103760	outcome is that the code is perfect, and humans as well as machines all agree there are no
+103760	111120	more improvements to be made. And the resulting AGI's are still not super intelligent. The
+111120	116480	most likely outcome is that we all realize the folly in this argument and won't even
+116480	123800	try. It's not about the code. The number of lines of code in AI related projects has been
+123800	146000	declining rapidly. 2012. 34,000 lines.py.kudukrzebski et al. for ImageNet. 2013. 1571 lines of
+146000	157400	Lua to Play Atari games. 2017. 196 lines of Keras to Implement Deep Dream. 2018. Less
+157400	165520	than 100 lines of Keras for research paper-level results. And all of these, except Saig, included
+165520	172000	as the most famous example of a 20th century reductionist AI system, demonstrates new levels
+172000	178680	of power of machine learning. The limits to intelligence are not in the code. In fact,
+178680	185320	they are not even technological. The limit of intelligence is the complexity of the
+185320	192080	world. Admission is unavailable. The main purpose of intelligence is to guess, to jump
+192080	198440	to conclusions on scant evidence, and to do it well, based on a large set of historical
+198440	204840	patterns of problems and their solutions or events and their consequences. Because scant
+204840	211600	evidence is all we will ever have, we don't even know what goes on behind our back. And
+211600	217240	because our intelligence is guessing, I have repeatedly claimed that, all intelligences
+217240	223480	are fallible. We are already making machines that are better than humans in some aspect
+223480	229960	of guessing. Protein folding and playing go are examples of this. And these machines
+229960	235120	will get bigger and better at what they do and will be superhuman in various ways and
+235120	242520	in many problem domains, simply based on larger capacity to hold, look up, or search useful
+242520	249080	patterns. The code doing that can be hand optimized to the point where any AI improvement
+249080	255280	would be insignificant. My own code in the inner loop for understanding any language
+255280	262200	on the planet, once it has learned it, in inference mode is about 90 lines of Java.
+262200	269040	We can expect a best minor improvements to efficiency and speed. It comes down to the
+269040	278240	corpus. In my domain, NLU, simple tests can be scored at 100% after a few minutes of learning
+278240	284840	on a laptop. Continue learning for days and weeks would provide a larger sample set of
+284840	290160	vocabulary in appropriate contexts, which would mainly correct misunderstandings in
+290160	298240	corner cases. But these corporal are not comparable by several orders of magnitude, to the gathered
+298240	305280	life experience of a human at age 25. The main limit of intelligence is corpus size
+305280	312440	in ML situation. Future artificial intelligences will be nothing like what AGI fans have been
+312440	319520	fearmongering about. These are 20th century reductionist AI ideas. The components are
+319520	326800	blind to the most fundamental basics of epistemology. Reductionist good old fashioned AI has been
+326800	332480	demonstrated to being inferior in their own domains to even semi-trivial machine learning
+332480	342200	methods. We need AGL, not AGI. Machines learning to code. As of this writing, there are a handful
+342200	347480	of available code writing systems based on ML technology that has learned from large
+347480	355360	quantities of open source code. For example GitHub Copilot, OpenAI Codex, and Amazon Code
+355360	362800	Whisperer. They have not yet surpassed human programmers. But it's not about writing code
+362800	369040	either. AI's writing code is about as silly as AI magazine covers with pictures of robots
+369040	376840	typing, wink wink. In the future, if we want the computer to do something, we will have
+376840	383800	a conversation, speaking and listening, with the computer. The conversation is at the level
+383800	390560	of discussing a problem with a competent coworker or professional. It may spontaneously ask
+390560	399080	clarifying questions. I call this, contiguously rolling topic, mixed initiative dialogue, others
+399080	406080	talk of these bots as dialogue Asians. But this will go beyond Siri or Alexa, and when
+406080	413080	the computer understands exactly what you want done. It just does it. Why would reductionist
+413080	420000	style programming be a necessary step? Yes, there will still be lots of places where we
+420000	425960	want to use code. But whether that code is written by humans or AI's will make much
+425960	432120	less of a difference than we might expect based on today's use of computers.
+432120	441160	The Pink Pill. The Wisdom Salon. Wisdom Salon is an online world cafe. The World Cafe protocol
+441160	448720	is a recipe for organizing conversations that matter on a large scale. Thousands of people
+448720	456040	can cooperate in order to bring clarity to complex issues. This is a post-mortem summary
+456040	463280	for my interrupted wisdom salon project. I have all the code in an archive, but it requires
+463280	469680	a complete rewrite in order to fix the two biggest problems. The switch from flash,
+469680	477400	hack, to HTML5 for video and the cost of video connections. I know how to fix these but I'm
+477400	484040	busy working on understanding machines. At the moment, I am looking for someone to take
+484040	490960	this over. I also observe that there is a need for something like this. I see things discussed
+490960	497360	on Quora that would make good topics for a wisdom salon. I happen to believe video in
+497360	501720	spoken words are an important component for many reasons.
+501720	510720	Wisdom. Knowledge and information can easily be found on the web. But what about wisdom?
+510720	516440	Intelligence is based on gathered knowledge. Wisdom is based on gathered experience. To
+516440	526280	get wiser, seek out more experiences. Engage yourself. Do more stuff. Travel. Talk to people
+526280	533440	to share their experiences. Conversation with others is the easiest way to gain wisdom.
+533440	540400	But not all conversations are equal. We want conversations that matter. The World Café
+540400	547360	Protocol. The World Café Protocol is a recipe for organizing such conversations that matter
+547360	554160	on a large scale. Thousands of people can cooperate in order to bring clarity to complex
+554160	561440	issues. To find out more, buy the book or study the World Café website. But this is
+561440	568320	how it typically works. In some conference facilities or gymnasium, the organizers provide
+568320	575800	dozens to hundreds of square tables. Each has four chairs, a box of crayons, and a piece
+575800	582600	of butcher paper as a tablecloth. Stakeholders from all walks of life get invited and sit
+582600	590240	down at the tables. This could be a mixture of farmers, teachers, politicians, in corporate
+590240	597800	environments. Sometimes this is everybody in the company. Organizers now unveil a carefully
+597800	603960	phrased focusing question as the topic of the conversations. It is important that the
+603960	611160	question is positive and focusing. For education reform, don't ask, what is wrong with our
+611160	618480	education system? Instead, ask, what could a great school also be? The four people at
+618480	624600	each table now start a conversation around the question. Everyone takes notes on the
+624600	633400	butcher paper, using the crayons. After 20 minutes, a gong rings. Three people. Everyone
+633400	640040	except south in duplicate bridge terms. At each table get up and move to other tables
+640040	647280	at random. Through fresh random people sit down at each table. South now first explains
+647280	653360	to the newcomers what the notes on the tablecloth mean. This provides a kind of lightweight
+653360	659480	continuity from the previous conversation at this table. The three newcomers comment
+659480	665160	on these notes and add fresh comments. The best parts of what was said at their previous
+665160	672920	tables. These conversations unfold very naturally. Four strangers can easily have a friendly
+672920	679880	conversation about complex things that matter. They don't even have to introduce themselves.
+679880	687680	They contribute their wisdom and experiences. Not their resumes. Conversations now continue
+687680	695440	for another 20 minutes. The gong rings again, and the shuffling repeats. After two to three
+695440	700880	hours, the session is over and the butcher papers are gathered by the organizers into
+700880	708920	what is called the harvest. They are summarized in some time later. Perhaps, after lunch,
+708920	716560	the results are shared with all the stakeholders. Why this works so well? Someone pushing a
+716560	723760	bad idea of theirs at every table can spam at worst 27 people in three hours. A good
+723760	730680	idea. Introduced at the first table and repeated by all participants at subsequent tables will
+730680	737840	reach over 100,000 people or the majority of the audience, whichever is smaller. This
+737840	744000	is the filtering power of the World Café protocol. Wisdom Salon is an online World
+744000	751400	Café. Sadly, the Wisdom Salon project has been suspended because of changing infrastructure
+751400	758440	and cost structure for online video transmissions, and because of lack of time on my part. It
+758440	764680	is possible to restart the project using current video technology and with funding and a larger
+764680	772280	team. If interested in contributing to this, please get in touch. What follows is the original
+772280	780280	high-level design specification, written in the present tense, design specification.
+780280	788840	The Wisdom Salon is a 24-7 online World Café implemented as a video chat site. Conversations
+788840	794640	have four participants, but each conversation can also have a passive and quiet audience
+794640	802800	of any size. All conversations are always public. All conversation participants are
+802800	809960	known by their login identities. Why would anyone want to participate? The main purpose
+809960	816640	of Wisdom Salon is increased wisdom and improved clarity and complex issues for the participants.
+816640	823360	This is your main benefit. This is why you would want to participate. You will not get
+823360	829920	lags, but you might earn a local currency, called, Influence, that you can selectively
+829920	832600	use to extend your influence.
+832600	839720	Goal. The goal is specifically not to find the best grains of wisdom in the harvest.
+839720	845920	The grains are there mainly to provide continuity and shorten the time to get to talking about
+845920	852200	things that matter. The system is there to provide the users a chance to analyze large
+852200	860720	and complex issues with others in conversation and in exchange of experiences. Do not underestimate
+860720	867520	how different an interactive conversation is from a web search or reading a book. Have
+867520	874040	you ever spent days studying something without getting it only to have someone set you straight
+874040	880280	in two minutes of conversation? Have you ever been in a meeting where the resolution is
+880280	886000	something none of the participants even understood when the meeting started?
+886000	893040	Sample questions. What kinds of questions demonstrate the power of the Wisdom Salon?
+893040	901080	Consider these samples. I am considering a midlife career change. What matters? Where
+901080	909560	should I retire, and why there? Should I pursue a career in engineering or medicine?
+909560	916400	Lifestyle design in interesting times. What is the true promise of genetics research and
+916400	923800	why should I care? What movies should I let my children watch, and why?
+923800	932720	Musical education for my child. What matters? What instruments, and why? What is it really
+932720	941640	like to be a soldier in places like Afghanistan and Iraq? Should I retire in Costa Rica? User
+941640	949000	experience. People arrive when they want and leave when they want. They can engage in multiple
+949000	958000	ways. Upon entering the site, users are presented with the, at the moment, most popular conversation,
+958000	964640	the one with the largest audience. Below the conversation, there will be a list of other
+964640	971800	popular conversations, headed by conversations and topics the user may have watched or previously
+971800	978800	participated in. They can browse all ongoing conversations much like watching talk shows
+978800	985640	on television. They can select from hundreds of questions to find something that interests
+985640	993000	them, or add their own. Instead of a butcher paper, they can leave notes on each question
+993000	999680	known as, grains of wisdom, to provide the lightweight continuity from table to table.
+999680	1007120	They can vote on these grains of wisdom so that they better result rise to the top. Results
+1007120	1014080	are immediately visible to all. They can observe what other people say and how they behave
+1014080	1019880	and modify their own social graph to improve their chances of interaction with the best
+1019880	1026880	people. A local currency is earned by passive engagement per hour, more of it is earned
+1026880	1032600	by participating in conversations, and the currency is used to pay for the privilege
+1032600	1039400	of posting a comment, because posting cost currency, spelling the grains of wisdom will
+1039400	1046400	be limited. A topic without currently active conversations still allows you to browse the
+1046400	1053800	grains of wisdom on the topic, and if you have influence, you can vote on the grains or notes
+1053800	1060000	that you like or otherwise agree with, and you can restart the topic by creating a table
+1060000	1067640	and hope others will join. Four main uses of wisdom salon. The site enables, but doesn't
+1067640	1075200	enforce the World Cafe protocol. You can use the site for several different purposes.
+1075200	1081520	As entertainment and education, passively watching conversations among your peers,
+1081520	1088080	much like flipping channels on television. To get both factual information and broad
+1088080	1096080	ranging personalized advice from experts. To share your expertise in fields you understand.
+1096080	1104080	To do micromantering. To find an audience for storytelling and sharing personal experiences
+1104080	1112640	from your life. To gain wisdom and personal clarity in complex issues. To debate the major
+1112640	1119680	issues of the day in person and productively selected and well behaved groups. To find
+1119680	1125600	new interesting and competent friends by observing their behavior and then befriending them,
+1125600	1134320	much like other social media. Any active conversation starts a 20 minute clock bar moving. You
+1134320	1141560	can leave anytime. System provides some incentive to stay the full 20 minutes. On the other
+1141560	1149000	hand, you don't have to leave after 20 minutes. If you like, you can continue conversation
+1149000	1156920	along as you want. But we expect a large fraction of people to adhere to the protocol. We believe
+1156920	1164240	this maximizes the wisdom gain per session. Without the right people, the system is worthless.
+1164240	1172000	Do not be discouraged. Facebook would be worthless with only 10 people on it. Wisdom salon really
+1172000	1178480	requires at least 50 people to be on the system before you are likely to find a conversation
+1178480	1184960	around a question you actually care about anytime you join. So nobody knows if this
+1184960	1190600	will work or not, and it may take a while before the system matures enough to attract
+1190600	1196400	a sufficient repeat audience to become what I designed it for. If you don't like it
+1196400	1203000	at first, please try again. It might well improve, and you might get lucky to get into
+1203000	1210360	an amazing conversation when you least expect it. Welcome to my experiment.
+1210360	1219360	The lavender pill. Model free AI. Don't model the world. Just model the mind. It's a lot
+1219360	1229120	easier. With some poetic freedom, I'd like to claim 1. Model the world. 10 billion lines
+1229120	1240960	of code. 2. Model the brain. 10 million lines of code. 3. Model the mind. 10,000 lines of
+1240960	1248640	code. Number one is regular programming. We make computers perform actions in a context
+1248640	1254480	that matches the programmer's mental model of some relevant parts of the world. Number
+1254480	1261160	two is neuroscience-based models of neurons, synapses and other biological structures and
+1261160	1269920	systems in brains. The number three is epistemology-based models of learning, understanding, reasoning,
+1269920	1277160	prediction, abstraction, and other holistic and emergent phenomena. Epistemology-based
+1277160	1283440	methods require a rather minimal infrastructure to support whatever operations these concepts
+1283440	1290680	require. I put models within irony quotes because they are strictly speaking metamodels
+1290680	1297360	because they are used in metascales. They are not about skills, such as English or folding
+1297360	1304280	proteins. They are about how to acquire such skills by learning from our mistakes.
+1304280	1312840	The purple pill. Corpus congruence. Understanding in brains and machines can be defined and
+1312840	1321960	measured as corpus congruence. Corpus congruence as a metric spans up almost all of NLP. Understanding
+1321960	1328440	in brains and machines can be defined and measured as corpus congruence. Let's consider
+1328440	1336040	this in the machine learning sense. If a machine is model-free, holistic, as all general understanders
+1336040	1341960	have to be in order to not get trapped into a limited model, then all it ever knows comes
+1341960	1348080	from the corpus it was trained on. And all it really can say is, this is more like my
+1348080	1355480	corpus than that. Or, this is more like these documents in my corpus than those corpus congruence
+1355480	1364160	as a metric spans up almost all of NLP. Because most of NLP is doxen in various guises. Given
+1364160	1370880	two documents A and B in some corpus, a classifier can say that an unknown document, which we
+1370880	1379360	can call U, is more like it than B given this capability we can build. Classification and
+1379360	1389640	clustering by using A, B, up to N as defining classes. Filtering by using A, wanted dox
+1389640	1401440	and B, unwanted dox. Summoned analysis by using A, negative dox and B, positive dox.
+1401440	1409440	Entity extraction by softly matching termed against lists of known entities. Doxen, find
+1409440	1417080	me more documents like this one. Reductionist and NLP uses all of these at the bag of words
+1417080	1425320	or word count levels for things like web search, span filtering, and clustering. Holistic
+1425320	1432600	NLU aims to do the same based on the meanings expressed in sentences and paragraphs. But
+1432600	1439720	semantic corpus congruence is still corpus congruence. Common sense now becomes, is the
+1439720	1446000	proposition before me congruent with my entire world model, as required by learning things
+1446000	1453440	from my training corpus. If it is well known, then we can likely ignore it this time, and
+1453440	1458960	if it is not, then the next question will be, is it close enough that it might be worth
+1458960	1465320	while extending the world model with this information? If the answer is no, then the
+1465320	1472160	input is by its definition nonsense. Otherwise it is either a new fact or a lie, but since
+1472160	1479760	we cannot tell, we have to accept it, possibly with a note that this is fresh, untested knowledge
+1479760	1487360	that may turn out to be irrelevant, false, counterproductive, or noise. Next we can note
+1487360	1494040	that it doesn't matter whether documents are text or images, or input from a point cloud
+1494040	1500280	of sensors for robots or autonomous vehicle sensors. And finally we can note that this
+1500280	1507640	definition also holds for humans if we take our corpus to be everything we've experienced
+1507640	1509640	since birth.
+1509640	1512640	Monika's Little Pills
+1512640	1514160	Chapter 1
+1514160	1517760	Why I Works
+1517760	1524760	Intelligence equals understanding plus reasoning. Interest in artificial intelligence is exploding,
+1524760	1531760	and for good reasons, computers and cars, phone apps, and on the web can do amazing
+1531760	1539280	things that we simply could not do before 2012. What's going on? This is an attempt
+1539280	1545840	to explain the current state of AI to a general audience without using mathematics, computer
+1545840	1553480	science, or neuroscience, discussions at these levels with focus on how AI works. Here I
+1553480	1561040	will discuss this at the level of epistemology and will try to explain why it works. Epistemology
+1561040	1568440	sounds scary, but it really isn't. It's mostly scary because it is unknown, it is not taught
+1568440	1575840	in schools anymore, which is a problem, because we now desperately need this branch of philosophy
+1575840	1584200	to guide our AI development. Epistemology discusses things like reasoning, understanding, learning,
+1584200	1591960	novelty, problem solving in the abstract, how to create models of the world, etc. These
+1591960	1598080	are all concepts one would think would be useful when working with artificial intelligences,
+1598080	1604600	but most practitioners enter the field of AI without any exposure to epistemology which
+1604600	1611320	makes their work more mysterious and frustrating than it has to be. I think of it epistemology
+1611320	1617640	as the general base for everything related to knowledge and problem solving. Science forms
+1617640	1623320	a small special case subset domain where we solve well-formed problems of the kind that
+1623320	1630040	science is best at. In the epistemology outside of science we are free to productively also
+1630040	1636400	discuss pre-scientific problem solving strategies, which is what brains are using most of the
+1636400	1644840	time. More later, intelligence equals understanding plus reasoning. In his book, Thinking Fast
+1644840	1651800	and Slow, Daniel Kahneman discusses the idea that human minds use two different and complementary
+1651800	1658440	processes, two different modes of thinking, which we call understanding and reasoning.
+1658440	1664600	The idea has been discussed for decades and has been verified using psychological studies
+1664600	1672200	and by neuroscience. Subconscious intuitive understanding is the full name of the fast
+1672200	1679280	thinking or system one thinking. It is fast because the brain can perform many parts of
+1679280	1686240	this task in parallel. The brain spends a lot of effort on this task. Conscious logical
+1686240	1693840	reasoning is the full name of slow thinking or system two thinking. To many people's
+1693840	1701440	surprise, this is very rarely used in practice. By soundbite for this is, you can make breakfast
+1701440	1707840	without reasoning. Almost everything we do on a daily basis in our rich mundane reality
+1707840	1713800	is done without a need to reason about it. We just repeat whatever worked last time we
+1713800	1721960	performed this task. Real experience driven. Intuitive means that the system can very quickly
+1721960	1728400	provide solutions to very complex problems but those solutions may not be correct every
+1728400	1734960	time. Logical means that answers are always correct as long as input data is correct and
+1734960	1742240	sufficient, which is not true in our rich mundane reality. It can only be true in a mathematically
+1742240	1751120	pure model space. If you like logic, you must also like models. Subconscious means we have
+1751120	1758020	no conscious, introspective access to these processes. You are reading this sentence
+1758020	1764320	and you understand it fully but you cannot explain to anyone, including yourself, how
+1764320	1770840	or why you understand it. Conscious means we are aware of the thought, we can access
+1770840	1777960	it through introspection and we may find reasons to why we believe a certain idea. Expensive
+1777960	1784160	is on the list because brains spend most of their effort on this understanding part. We
+1784160	1791800	really shouldn't be surprised that AI now requires very powerful computers. More later.
+1791800	1798240	In contrast, reasoning is efficient. It is most useful when you are stuck in a novel
+1798240	1805480	situation or experience and understanding doesn't help you. Or perhaps you need to plan ahead
+1805480	1812600	or need to find reasons for why something happened after the fact. It is used at a formal level
+1812600	1820960	in the sciences. Reasoning is important but just rarely needed or used. Finally, understanding
+1820960	1828480	is model-free and reasoning is model-based. This is likely the most important distinction
+1828480	1833880	to people who are implementing intelligent systems since it provides a way to keep the
+1833880	1840080	implementation on the correct path when the going gets rough. We cannot discuss these
+1840080	1847440	issues quite yet but if you are curious you can watch the videos at Vimeo.com which discuss
+1847440	1853920	this distinction at length. Think of the appearance in this table as a kind of foreshadowing.
+1853920	1860680	All of this groundwork allows me to state the main point of this section. We have known
+1860680	1867880	for a long time that brains use these two modes. But the AI research community has been spending
+1867880	1873560	over much effort on the reasoning part and has been ignoring the understanding part for
+1873560	1881400	60 years. We had several good reasons for this. Until quite recently, our machines were too
+1881400	1888320	small to run any useful sized neural network. And also, we didn't have a clue about how
+1888320	1895440	to implement this understanding. But that is exactly what changed in 2012 when a group
+1895440	1900960	of AI researchers from Toronto effectively demonstrated that deep neural networks could
+1900960	1907320	provide a simple kind of shallow and hollow proto-understanding. Well, they didn't call
+1907320	1914480	it that, but I do. I will look just a little into the future and overstate this just a
+1914480	1922440	little in order to make it more memorable. Deep neural networks can provide understanding.
+1922440	1928480	This new phase of AI took decades to develop, but it would never have happened without people
+1928480	1935600	like the group led by Jeffrey Hinton at the University of Toronto, who spent 34 plus years
+1935600	1942800	to develop the deep neural network technology we now call, deep learning. A number of breakthroughs
+1942800	1951160	from 1997 to 2006 led to a number of successful demonstrations, including first prizes in
+1951160	1958160	AI competitions in 2012. And we therefore count this year as the birth year of machine
+1958160	1965160	understanding. To an outsider, it may look like an older program or phone app might be
+1965160	1971200	understanding whatever the app is doing, but that understanding really only happened in
+1971200	1977480	the mind of the programmer creating the app. The programmer first simplified the problem
+1977480	1984640	in their own head by discarding a lot of irrelevant detail using programmer's understanding.
+1984640	1990640	The simplified mental model of the problem domain could then be explained to a computer
+1990640	1996720	in the form of a computer program. What is changing is that computers are now making
+1996720	2004520	these models themselves. The first bullet point describes regular programming, including
+2004520	2014120	old style AI programs. AI has, since 1955, provided many novel and brilliant algorithms
+2014120	2020800	that we now use in programs everywhere. But when you contrast old style AI to understanding
+2020800	2027960	systems, the old kind of AI is basically indistinguishable from any other kind of programming we do
+2027960	2034960	nowadays. The second bullet point describes the recent developments. Deep neural networks
+2034960	2040160	are so different from regular programs that we have to acknowledge them as a different
+2040160	2047160	computational paradigm. This is why they took almost four decades to develop. And the
+2047160	2054440	paradigm, being pre-scientific and model-free, is difficult to grasp if you receive a solid
+2054440	2061440	reductionist and model-based education. It takes a long time for an established AI practitioners
+2061440	2067840	or experienced programmer to switch. People who are just starting out in AI have an easier
+2067840	2073000	time assimilating this new paradigm since they haven't had a full career's worth of
+2073000	2079320	experience and success using old style AI techniques. The amount of work we have to
+2079320	2085720	do to get a deep neural network to understand is surprisingly small, and companies like
+2085720	2091000	Google and Cintiens are working on eliminating the remaining effort of programming neural
+2091000	2098680	networks. This is where things will get really weird. When the deep neural network, DNN,
+2098680	2104040	understands enough about the world and about the problem it is faced with, then we no longer
+2104040	2111560	need a programmer to acquire this understanding. Let me elaborate. Programmers are employed
+2111560	2117760	to bridge two different domains. They first have to study whatever application domain
+2117760	2123720	they are working on. For instance, if they are writing an airline ticket reservation
+2123720	2130520	system they will have to learn a lot of detailed information about airlines, airline tickets,
+2130520	2138400	flights, luggage, etc. and then know to provide features for unusual cases such as cancelled
+2138400	2144720	flights. And then the programmer uses their understanding of the problem domain to explain
+2144720	2150440	to a computer how it can reason about these things, but the programmer cannot make the
+2150440	2156640	system understand, it can only put in the hollow and fragile kind of reasoning, as a
+2156640	2164080	program with many of thin cases, and any misunderstandings the programmer has about the problem domain
+2164080	2172040	will become bugs in the computer program. Notice the shift in terminology. More later.
+2172040	2180040	But today, for certain classes of moderately complex problems, we can use a DNN to automatically
+2180040	2186760	learn for itself how to understand the problem, which means we no longer need a programmer
+2186760	2193520	to understand the problem. We have delegated our understanding to a machine, and if you
+2193520	2199880	think about that for a minute you will see that that's exactly what an AI should be doing.
+2199880	2206000	It should understand all kinds of things, so that we humans won't have to. And there
+2206000	2212000	are two common situations where this will be a really good idea. One is when we have
+2212000	2218960	a problem we cannot understand ourselves. We know a lot of those, starting with cellular
+2218960	2225440	biology. The other common case will be when we understand the problem well, but making
+2225440	2230920	the machine understand it well enough to get the job done is cheaper and easier than any
+2230920	2237800	alternative. MoonBoss accomplish this level of using old style AI methods, but I predict
+2237800	2243840	we will one day be flooded with similar, but DNN based devices that understand several
+2243840	2251400	aspects of domestic maintenance, as well as we do. Do machines really understand? If we
+2251400	2257840	give a picture like this to a DNN trained on images it will identify the important objects
+2257840	2264680	in the image and provide the rectangles, called, owning boxes as approximations to where the
+2264680	2271320	objects are. The text on the right says, woman in white dress standing with tennis racket
+2271320	2278280	to people in green behind her, which is not a bad description of the image. It could be
+2278280	2285160	used as the basis for a test for English skill level for adult education placement, for all
+2285160	2292480	practical purposes. This is understanding. We had no idea how to make our computers do
+2292480	2301400	this before 2012. This is a really big deal. This feat requires not only a new algorithm,
+2301400	2308840	it requires a new computational paradigm and images to a computer, a single long sequence
+2308840	2317560	of numbers denoting values for red, blue and green colors and values from 0 to 255. It
+2317560	2324480	also knows how wide the image is. How does it get from this very low level representation
+2324480	2329800	to knowing that there is a woman with a tennis racket in the image? This is what William
+2329800	2336240	Calvin has called, a river that flows uphill. There are very few mechanisms that can go
+2336240	2343680	in this direction, from low levels to high levels. Calvin used the term to describe evolution,
+2343680	2351120	and I can use this quote to describe understanding. I like to think of evolution as, nature's
+2351120	2357880	understanding because the phenomena are very similar at several levels. Evolution of species
+2357880	2363480	can bring forth advanced species starting from simpler species in the same manner that
+2363480	2369480	understanding is the discovery and reuse of high level concepts and low level input.
+2369480	2376640	In contrast, reasoning proceeds by breaking problems into sub-problems and solving those,
+2376640	2384600	which is a, flowing downhill, kind of strategy. In mathematics we accept, and many mathematicians
+2384600	2391040	only accept this reluctantly, that we need to use induction to move uphill in abstractions,
+2391040	2398240	and that's a very limited uphill movement at that. Epistemology allows for much stronger
+2398240	2405000	uphill moves. This is known as, jumping to conclusions on scant evidence and it's allowed
+2405000	2411800	in epistemology based pre-scientific systems. As an aside, here's a pretty deep related
+2411800	2419400	thought. In nature, evolution reuses anything that works. I like to think that understanding
+2419400	2426560	is a spandrel of evolution itself. Neural Darwinism certainly straddles this gap. Could
+2426560	2433880	be coincidence, or the only answer that will work at all. More later, we doubled our AI
+2433880	2441080	toolkit in 2012. We can now use these deep neural networks as components in our systems
+2441080	2447160	to provide understanding of certain things like vision, speech, and other problems that
+2447160	2454240	require that we discover high level concepts and low level data. The technical, epistemology
+2454240	2460840	level name for this uphill flow in processes, reduction, and we'll be using that term later
+2460840	2466360	after we explain what it means. Let's look at what the industry is doing with their new
+2466360	2474080	found toys. This is my view of what I think Tesla is doing, based on public sources in
+2474080	2481040	their self-driving, autopilot, cars, cameras feed vision understanding components based
+2481040	2487480	on deep learning, and radar feeds to radar understanding components. These supply bounding
+2487480	2493880	boxes in 2D or 3D with additional information like, there's a woman with a tennis racket
+2493880	2499800	ahead to a traffic reasoning component that uses regular programming, or some old style
+2499800	2506640	AI like a rule based system to actually control the car based on the vision and radar inputs,
+2506640	2514120	and the driver's desires. But this is not the only possible configuration. George Hopps
+2514120	2521480	at Comma.ai, a team at NVIDIA Corporation, and the deep Tesla class at MIT are using
+2521480	2526840	a simpler architecture with just a neural network that implements lane following and
+2526840	2532840	other simple driving behaviors directly in one single deep neural network. There's room
+2532840	2540360	for improvement, but there a big step in the direction we want to move in. Future automotive
+2540360	2546400	systems will likely integrate everything about driving into one single neural network, or
+2546400	2553240	something that effectively behaves as one. Vision, traffic, the car itself including
+2553240	2560080	various functionality like windscreen wipers, lights, and entertainment, how to drive in
+2560080	2567720	a safe and polite manner, and to understand also the drivers or car owners desires. And
+2567720	2573760	if we've gotten that far, then it is a given that we will have speech input and output
+2573760	2579320	so that the driver can have a conversation with the car while driving, and can just
+2579320	2585920	advise it in case it does something wrong. We are nowhere close to this today. But after
+2585920	2593240	a DNM breakthrough or two, who knows how quickly these kinds of systems become available. We
+2593240	2600520	can already see an increasing stream of new features built using understanding components.
+2600520	2607520	This article, and the next, are expansions of a talk given on June 10, 2017 at the San
+2607520	2615280	Francisco Bill Conference. A decade ago I created artificialintuition.com. I now have
+2615280	2622120	a lot more to say, but I need to split this meme package into digestible chunks. This
+2622120	2628120	takes a lot of effort to get right. If you liked this article and would like to see more
+2628120	2635120	like it then you can support my writing and my research in many ways, small to large,
+2635120	2640760	like and share these ideas with someone who might want to invest in sentience incorporated
+2640760	2646200	or might be otherwise interested in my research on a novel language understanding technology
+2646200	2653720	called organic learning. More on that later. I do not receive external funding from any
+2653720	2660220	investors for this research. You can support my research and writing directly at the donation
+2660220	2669400	section at artificialintuition.com. Chapter 2. Our Greatest Invention, Model Based Problem
+2669400	2677560	Solving. The first chapter, why AI works, provided the big picture of AI and understanding
+2677560	2684640	machines. Next we will focus on how to actually implement understanding in a computer. But
+2684640	2690600	before we can attack that core issue, we need to simplify the journey a bit by defining
+2690600	2698120	four important words and concepts. I'll define one in this section, two in the next, and
+2698120	2704400	the concept of reduction after that. We can then discuss the epistemology level algorithm
+2704400	2711040	for understanding itself. If you are already familiar with these concepts, just check the
+2711040	2717120	headings and definitions that follow in order to ensure we are using these words roughly
+2717120	2724400	the way you use them. You may have noticed I write certain, sometimes common words,
+2724400	2731600	such as model, with an uppercase first letter. This means I am using the word in a technical,
+2731600	2738920	well-defined, unchanging sense. I will define all such technical terms over time and I will
+2738920	2746040	try not to use these terms until I have defined them. We define 11 such terms in the first
+2746040	2754560	chapter, starting with understanding and reasoning. A dictionary of defined terms is in the works.
+2754560	2761000	Models are simplifications of reality in epistemology and science. Models are simplifications
+2761000	2768640	of reality. A rich mundane reality is too complex to land itself directly to computation.
+2768640	2775920	In OTB science fiction shows, we would sometimes hear. And then we fed all the information
+2775920	2783400	into the computer and this is what came out. Well, not anymore. Audiences now know that's
+2783400	2792200	not how regular computers work. Consider an automobile. It consists of thousands of parts,
+2792200	2799800	each with properties like materials, size, color, function, and sometimes complex interactions
+2799800	2807360	with other parts. What's all the information here? We can just feed all of those properties
+2807360	2814240	and measurements and facts into a computer and expect to get an answer. We need to ask
+2814240	2821200	a question and we also need to simplify the problem so that we can feed in just the facts
+2821200	2827720	or numbers that matter so that our question can be answered with minimum effort. How do
+2827720	2835500	we do that? We must identify or create, first in our minds, a very simple model of some
+2835500	2842240	sort of a generic automobile, and use that model for our computation. After we get the
+2842240	2849160	answer for the pure and simple model case, we apply the answer, with some care, back
+2849160	2856400	to our complex reality where the real automobile and the problem exists. What kind of model
+2856400	2863520	we choose depends on our goals. As an example of a model, Newton's second law states that
+2863520	2871560	force equals mass times acceleration, f equals ma. This equation is a classical scientific
+2871560	2878400	model. If we measure mass and acceleration of a car, then we can estimate how many horsepower
+2878400	2886360	the engine has. To use this equation, we engineers would model, in our minds, the car as a single
+2886360	2893200	small point mass with all the mass of the car in that point. Because if we don't, then
+2893200	2899440	we'd have to worry about the car rotating and other problems. This is how model-based
+2899440	2907080	science works. One or more scientists somehow derive a model for some phenomenon. The model
+2907080	2914600	is published as an equation, a formula, or a computer program. Scientists and engineers
+2914600	2920600	anywhere can now use this equation program model, treating it as a quick shortcut that
+2920600	2926720	works every time, as long as they have correct input data and are confidently applying the
+2926720	2934280	formula to a suitable problem in their reality. Our greatest invention, model-based problem
+2934280	2941200	solving, aka reductionism, is the greatest invention our species has ever made. The
+2941200	2947080	general strategy of simplifying problems before solving them must be tens of thousands of
+2947080	2954280	years old. In some sense, it is a prerequisite for all other inventions, including the use
+2954280	2961520	of fire. If you see a forest fire then you need to first imagine the utility of fire.
+2961520	2967320	As a model, before you can figure out that it might be useful to carry home a burning
+2967320	2973840	branch, we don't think of this problem solving strategy as an invention because it is already
+2973840	2980080	ubiquitous in our lives. We are all taught how to use model-based problem solving in
+2980080	2986320	school when we start solving story problems in math class, but most people never learn
+2986320	2992640	the names of these strategies and are missing the big epistemology level picture. This rarely
+2992640	2999440	matters until you start working with AI, where lack of an epistemological drowning may lead
+2999440	3006360	you astray into failing strategies. These little pills are an attempt to remedy that.
+3006360	3013360	Model-based methods were examined and refined into scientific methods over the past 450
+3013360	3019920	years. Science is now a collection of thousands of models that taken together allow science
+3019920	3025840	competent people to solve problems quickly and efficiently without having to redo all
+3025840	3031840	the work that scientists, like Newton, put into creating these models in the first place.
+3031840	3038640	And the sum total of those models covers many problems we want to solve scientifically,
+3038640	3044840	such as how to build a bridge or travel to the moon. This reuse is what makes science
+3044840	3052040	so effective, but not all sciences can benefit equally from this model-making. It works well
+3052040	3060440	for physics, chemistry, and most of biochemistry. As I'm fond of saying, physics is for simple
+3060440	3066960	problems, but as you get to more and more complex sciences, as you get further away
+3066960	3074320	from physics and closer to life, it gets harder to make decent models. The models used by
+3074320	3081560	for instance psychology, ecology, physiology, and medicine are generally more complex but
+3081560	3088960	also less powerful than models in physics. Given some solid data, a physicist can compute
+3088960	3094920	the mass of the proton to six decimal places, but we would have a harder time predicting
+3094920	3100480	the number of muskrats in New England next summer because that outcome depends on millions
+3100480	3107400	of parameters. The life sciences base many of their models on statistics. Statistical
+3107400	3113680	models are among the weakest models used in science. These statistical models when more
+3113680	3120880	powerful models with better predictive capabilities cannot be used for complexity reasons. Models
+3120880	3131960	are apothesis, unverified models, scientific theories, models verified by peer review,
+3131960	3144600	equations, formulas, complex scientific models, simulations of climate, weather, etc. Naive
+3144600	3153400	models that we create to simplify our own lives. Computer programs, and what is mathematics?
+3153400	3160720	It is a system that allows us to manipulate our models to cover more cases. Mathematics
+3160720	3168720	is the purest, most context free of all scientific disciplines. As such, its greatest value to
+3168720	3175080	humanity is in its role as a help discipline to all other disciplines. Einstein's famous
+3175080	3181440	equals MC squared model was derived using mathematical manipulation of other models
+3181440	3188240	known to Einstein at the time. But perhaps mathematics isn't as much a scientific discipline
+3188240	3196240	as an epistemological one. I may explore this aside later. Model use requires understanding.
+3196240	3204000	A good model is context free, since it maximizes the number of contexts it can be applied in.
+3204000	3212240	Newton's second law, F equals MA, works pretty much everywhere. We have forces, masses, and
+3212240	3219200	accelerations. The trade-off for this flexibility is that we ourselves need to understand the
+3219200	3227840	problem domain. In rocket science, when maneuvering in space, F equals MA will often work perfectly,
+3227840	3233680	but when you are applying it to the acceleration of your car, you need to account for lots of
+3233680	3240320	effects like friction between the road and the wheels, wind resistance, and the like.
+3240320	3248080	So, F equals MA, applied naively would give you the wrong answer if friction is involved.
+3248080	3254960	This demonstrates the main disadvantage with models. They require that both the model maker,
+3254960	3261680	scientists like Newton and the model users, STEM competent people everywhere, understand
+3261680	3268720	enough about the problem domain to know whether the model is applicable or not, and how to use it.
+3268720	3274560	This understanding is the expensive part of science, since using science requires first
+3274560	3279760	getting a solid science education in order to avoid mistakes when using models.
+3280400	3285920	And since models require understanding, they cannot be used to create understanding.
+3286640	3292080	This is a major problem for AI implementers. Chapter 3
+3292080	3297120	2 Dirty Words Reductionism is the use of models.
+3297840	3304240	Holism is the avoidance of models. Matters are scientific models, theories,
+3304240	3311760	hypotheses, formulas, equations, superstitions, and most computer programs.
+3313040	3320000	Reductionism and Holism. After having sorted out what models are, we can now discuss two
+3320000	3327280	complementary problem-solving strategies, or perhaps meta-strategies. There are in many ways
+3327280	3333360	each other's opposites, but the classification can become an argument about novel levels and
+3333360	3340560	definitions. I will initially pretend the division is clear and obvious, and will elaborate later.
+3341200	3348320	Reductionism is the use of models. In this series we will use exactly the above definition of the
+3348320	3355600	word, reductionism. If you look up the definition elsewhere you may find that some sources divide
+3355600	3362640	the strategy into sub-strategies. They also seem to miss the most important sub-strategy,
+3362640	3368720	which we'll discuss later. But what all these sub-strategies have in common is that they all
+3368720	3375440	provide ways to simplify observations of fragments of our rich mundane reality into much simpler
+3375440	3383840	models, which we use for reasoning, computation, and sharing. Reductionism is so central to how
+3383840	3391440	we do science, the heavy reliance on models, such as theories, equations and formulas,
+3391440	3401040	and physics, chemistry, etc. That we can speak of model-based sciences or reductionist sciences
+3401040	3408320	where such model-making is easy and effective, and this classification excludes those sciences,
+3408320	3414480	like psychology, where such model-making is difficult and less often rewarded with reliable
+3414480	3421760	results. After considering all the advantages of models we might wonder why we even bother
+3421760	3429360	discussing it. Too many people, especially those with a solid stem, science, technology,
+3429360	3435360	engineering, and mathematics education, it may well look like the only choice,
+3436080	3443040	but there's also the other strategy. Homism is the avoidance of models. This is where the
+3443040	3450000	questions start. This is where the paradox is surface. This is where your worldview may get
+3450000	3458000	shaken up. Seriously, especially if you are a scientist or engineer with a solid stem education
+3458000	3466240	and decades of professional success using science and models. In some sense, the goal of this entire
+3466240	3472080	series is to demonstrate that we need to use both problem-solving strategies when creating
+3472080	3478640	our artificial intelligences, because that is what it is going to take. We need holistic
+3478640	3485760	understanding. We established that in the first chapter, as a sample of the new ideas that we
+3485760	3494480	will have to deal with I will just mention, reasoning is reductionist. Understanding is holistic.
+3495760	3503120	Newer networks are holistic. Holistic systems can jump to conclusions on scant evidence.
+3504400	3508960	Holistic systems can themselves know what is important and what isn't.
+3508960	3516720	Holistic systems can solve problems we ourselves cannot or don't care to understand.
+3516720	3525360	Holistic systems are model-free. We do not use any a priori models of any problem domain.
+3526560	3531200	Reasoning systems inherit all problems and benefits of reductionism.
+3532480	3537120	Understanding systems inherit all problems and benefits of holism.
+3537120	3544000	Humans are born holistic. Humans each solve thousands of little
+3544000	3551840	problems every day, and we are solving almost all these problems holistically, using understanding,
+3551840	3556960	and without a need to reason at all. This includes fluent language use.
+3558160	3564000	A stem education instills a strict reductionist discipline in order to mitigate problems
+3564000	3570000	with fallibility of holistic human minds. Our intelligences are fallible.
+3570800	3576880	These claims all deserve individual treatments, and we'll get to all of them in later sections.
+3577600	3583360	But the major theme is clear. Humans are mainly holistic problem solvers.
+3584000	3591840	This must be true for our artificial intelligences. We had several reasons for focusing on reductionist
+3591840	3599280	methods, models, and reasoning during the first 60 years of AI. Our computers were too small to
+3599280	3607200	make neural networks work at all. But there were also ideological reasons. AI was born out of the
+3607200	3613520	math and computer science departments of our universities, and therefore most of the people
+3613520	3619440	working on AI were solidly oriented towards the goal of creating a logic-based reductionist
+3619440	3626640	infallible artificial mind. To build early AIs, like expert systems, we entered rules
+3626640	3633520	or programmed in lots of facts to reason about. But this was budding reductionist castles in the
+3633520	3640720	air, comprised of unanchored facts that didn't tie to any understanding whatsoever. The troubles
+3640720	3647280	with classical AI, such as bitterness, the tendency to make spectacular and expensive
+3647280	3653520	mistakes at the edges of their competence, can be directly traced to the lack of foundational
+3653520	3659360	understanding to support these attempts at reasoning. Understanding machines will not
+3659360	3665120	suffer from this brittleness, but will fail gracefully at the edges of their competence,
+3665120	3672240	much like humans. Most of the time they will know the answer beyond that they will guess,
+3672240	3678560	and the guesses they make are based on a lifetime of experience, gained through learning from a
+3678560	3685280	large corpus and so they have a good chance of being at least a workable choice, if not perfect.
+3685920	3692640	How can anyone solve problems without using models? A lot of people coming from a STEM
+3692640	3698960	background cannot even imagine how to solve problems without using models. But it's not
+3698960	3705760	hard, once you understand the difference, mostly it's a matter of doing what worked last time.
+3706480	3712400	The problem is now figuring out whether we are in a situation that's similar enough that it will
+3712400	3720400	work again. This is mostly a pattern matching problem. More later, what's the result? The
+3720400	3727120	holistic answer is a quick guess at the best action, based on experience with similar situations.
+3727120	3733360	Most of the time it's correct, sometimes it's a little wrong, and every now and then,
+3733360	3740080	there's a noticeable mistake. And if we get things a little wrong, we may notice the outcome
+3740080	3746560	and correct the action. We learn from our mistakes. If we practice something a lot,
+3746560	3753520	we will start doing it effectively and perfectly every time. Do we learn faster if we make more
+3753520	3761920	mistakes? Should we make mistakes on purpose? More later, in situations where you cannot use
+3761920	3768800	models, which are more common than many realize, the holistic guess may also be your only option.
+3769600	3777840	Conversely, if you have an adequately well-working model-based solution, just use that. My video,
+3777840	3783920	Model-Free Methods Workshop demonstrates how the group solves four different problems
+3783920	3791200	at a high level, using both reductionist and holistic methods. Why are these dirty words?
+3791920	3799040	Well, they are not dirty to epistemologists. Reductionism has been the default problem-solving
+3799040	3805600	paradigm because it's the one that has to be taught. We are born with a holistic problem-solving
+3805600	3812480	apparatus. But reductionist science doesn't come naturally. Therefore, it has to be taught in
+3812480	3819760	schools, practiced, and carried out according to certain rules. Perhaps that's why the sciences
+3819760	3826400	are called disciplines, because following the ideal scientific method requires practice and
+3826400	3835760	constant vigilance. J. C. Smutsbrook, Holism and Evolution, 1926 established the terminology in the
+3835760	3844640	epistemological literature. And no inchrodinger wrote, what is life, 1944, questioning the power
+3844640	3851840	of physics to provide useful explanations to the life sciences. Percy Grote, zen and the art of
+3851840	3859840	motorcycle maintenance, 1974, had contrast something very holistic, zen Buddhism, with
+3859840	3867920	something very reductionist, motorcycle maintenance. So the chasm between the strategies was identified
+3867920	3876240	a long time ago. The strategies are each other's opposites. H-O-L-E-L-I-S-M-based strategies for
+3876240	3882640	understanding can handle many important kinds of complexity and can quickly provide a guest
+3882640	3889840	answer. But these guesses are fallible, and often more expensive to compute. Reductionist
+3889840	3895840	education and strategies brought benefits of cheap model reuse and formal rigor to improve
+3895840	3901440	correctness, but cannot handle complexity and is therefore dependent on an external
+3901440	3906720	understander to determine applicability in real-world complexity rich situations.
+3907440	3914800	And as part of that education, we are told that holistic methods, such as jumping to conclusions
+3914800	3921600	unscanned evidence, are bad, in spite of the fact that our brains use holistic methods thousands
+3921600	3928240	of times each day to successfully understand the environment we live in. We can all use
+3928240	3935040	either strategy as appropriate. If we don't have a STEM education, we will still sometimes make
+3935040	3941520	naive models. But sometimes there is a choice and different people may prefer one or the other.
+3942160	3948640	When playing pool, some people estimate and compute bouncing angles and some people shoot
+3948640	3955920	by feel. But we have our preferences, and it may be tempting to label a person with an overly
+3955920	3964160	strong preference as a holistic or a reductionist. This is sometimes received badly, if perceived
+3964160	3972880	as a limitation. Some dictionaries even flag reductionist as derogatory. And yet, some people
+3972880	3980640	use it as a self-assigned label. I try to use these terms only as shorthand for a person with a
+3980640	3988240	stated strong preference for holistic or reductionist methods. The two terms were very useful in
+3988240	3996400	epistemology. But then someone invented the concept of holistic medicine. Instead of just shooting
+3996400	4004400	a single medical problem, you analyze the patient's entire situation, attempting to account for diet,
+4004400	4013680	exercise, sleep, work, habits, stress levels, allergies, family, friends, and environmental
+4013680	4021920	poisons. A good idea, in general. But the wide scope was unmanageable by the, traditionally
+4021920	4029760	reductionist medical establishment and the idea faded away. Instead, the whole idea of holism
+4029760	4037040	became tainted as woo-woo in the term, holistic medicine, became associated with woo-woo merchants
+4037040	4044560	selling crystals and aromatherapy. As explained above, holism is the avoidance of models,
+4044560	4051360	or better phrased, holism is the metastrategy of avoiding a priori models of the problem domain.
+4052000	4058720	That extra precision rarely matters. There's nothing woo-woo about it. It does say,
+4058720	4065360	science not required, but, you can make breakfast without reasoning. It is important to note that
+4065360	4071680	holistic methods are based on a lifetime of experience, in humans and a training corpus
+4071680	4078560	worth of experience, in neural networks. When you're making breakfast, you are relying on this
+4078560	4085520	experience, mostly repeating whatever worked yesterday. Some people claim they use reasoning
+4085520	4091360	while making breakfast, but they can make their breakfast while speaking to someone else on the
+4091360	4097440	phone. And as they hang up, they find themselves suddenly sitting at the breakfast table with
+4097440	4104800	their coffee and hot oatmeal. Same thing when driving to work. You may get lost in thought,
+4104800	4111520	and then you find yourself parked at work. You didn't need to reason, since all sub-problems
+4111520	4116480	that occur in driving had been solved multiple times, during years of driving.
+4117120	4123280	Sub-conscious understanding is used for simple things like sequencing our leg muscles as we
+4123280	4132000	walk. You have no idea how you are doing that, it just works. Same thing with vision. You understand
+4132000	4138640	that you are looking at a chair, but you do not have conscious access to the 15th rod cone pixel
+4138640	4144320	to the left of your center of vision, and have no idea how this understanding works.
+4145040	4151200	Same thing with understanding and generating language. You do not have any explanation for
+4151200	4157360	how you are able to understand the meaning of this sentence. Understanding is sub-conscious
+4157360	4164240	and holistic. So for the majority of things we do every day, we do not need reasoning or
+4164240	4171360	reductionist methods. Some people would like to think they are, logical thinkers, immune to
+4171360	4178560	most cognitive fallacies, but whether they are or not, at the lower levels, everyone is solving
+4178560	4185600	most of their problems holistically. I claim that reductionist reasoning requires holistic
+4185600	4193120	understanding. In other words, I need to understand the problem domain at hand before I can create
+4193120	4200160	and reuse models to enable me to reason about the domain. So holistic understanding is much
+4200160	4206560	more important than reductionist reasoning because it is the most used strategy, by far,
+4206560	4213600	and the former is also a prerequisite for the latter. But the fallibility of holistic understanding
+4213600	4220800	forced us to create reductionist science and to teach it in STEM education. It is as if the purpose
+4220800	4227920	of science is to keep holistic guessing in check, but this aversion to fallibility has a cost,
+4227920	4235440	because it means complexity bound and irreducible problems cannot be solved. Like language
+4235440	4243440	understanding, global resource allocation, and social interactions, reductionism and model-based
+4243440	4251760	science appeared around 1650 after a century of gestation. Excluding minor romantic interludes,
+4251760	4258800	it has held its position as the dominant paradigm for about 400 years. This is changing.
+4259600	4266000	The reductionist train is running out of track. The remaining hard problems facing humanity
+4266000	4271920	are problems of irreducible complexity in domains where reductionist model-based methods
+4271920	4279360	simply cannot work. Whether we like the idea or not, we need to accept these holistic methods
+4279360	4286480	into our AI toolkits. Starting now, we will use these methods either in their raw form,
+4286480	4292800	as model-free methods, or as understanding machines at any level from component to robot
+4292800	4302560	co-worker. Chapter 4. Reduction. Epistemic reduction is a process that discovers higher-level
+4302560	4308800	abstractions and lower-level data by discarding everything at the lower layer that it recognizes
+4308800	4316560	as irrelevant. We have seen the power of models. We have introduced the two problem-solving
+4316560	4323440	meta-strategies of reductionism and holism. We also noted that the creation and use of models
+4323440	4330320	requires an intelligent agent that understands the problem domain. Someone or something has to
+4330320	4339760	perform the reduction. I will now discuss reduction in some detail. Until 2012, only humans and other
+4339760	4346880	animals with brains could perform reduction. Now our deep neural networks, DNN, can perform
+4346880	4354640	limited reduction. How do brains and DNNs accomplish this? And how can we improve these algorithms?
+4355360	4362160	This may be, to some readers, the most rewarding part of this series, because it provides you
+4362160	4368960	the opportunity to learn a new and useful skill. Most people never think about the world at this
+4368960	4375760	level. Knowledge of reduction provides a new point of view that you can use to better understand
+4375760	4381440	your environment, other intelligent agents around you, and modern AI systems.
+4382240	4388880	Definition of reduction. Reduction is a process that discovers higher-level abstractions and
+4388880	4394800	lower-level data. We will initially note that reduction is exactly the same as abstraction.
+4394800	4401680	Why do we need a new word? Because the term abstraction is mostly used
+4401680	4408080	by scientists already operating in a pure model space, seeking a higher level of abstraction
+4408080	4414880	in that space. But to them, abstraction is something that just magically happens in their
+4414880	4421760	heads, since there are no scientific theories for how abstraction works. There cannot be,
+4421760	4429280	since abstraction is a concept in epistemology, not science. AI researchers are starting from
+4429280	4435600	something much closer to a rich mundane reality, where there is a lot of confounding context.
+4436160	4441920	We are solving the metal problem of how to move from there into a space that is sufficiently
+4441920	4448720	abstract to solve the problem at hand. Here, reduction is a much more appropriate term.
+4448720	4455600	We can abstract the red pixel or the letter B, but we can reduce a rich context containing
+4455600	4461600	that pixel or letter into a higher-level concept. We are swimming in reduction.
+4461600	4467600	Paradoxically, one of the hardest things about teaching reduction is that we don't see the
+4467600	4473920	need to learn about it because we all do it all the time, every millisecond, and the resulting
+4473920	4482240	reductions, models, become available to our conscious minds as if, by magic, brains reduce
+4482240	4491200	away 99.999% of their sensory input, but this process is subconscious and hence invisible to us.
+4491920	4500240	The situation is much like, supposedly, a fish swimming in water. We are all masters of reduction,
+4500240	4506160	but we don't know how we do it or that we even do it. We didn't know this would ever matter.
+4506800	4514560	And generally, it doesn't. Well, it matters in epistemology, and it matters in AI,
+4514560	4521840	since we need to actually implement that magic. We as epistemologists must know how abstraction
+4521840	4528560	is actually performed, and we give the epistemology-level equivalent of abstraction the name
+4528560	4534880	reduction, because that's the recipe for how to accomplish it. We reduce our rich mundane
+4534880	4542400	reality by discarding, reducing away, what's irrelevant. And by using the name reduction,
+4542400	4548480	we, as AI epistemologists, keep reminding ourselves how it is properly done.
+4549120	4556160	Consider the following descriptions of a car. The slide is meant to be read from the bottom up,
+4556160	4565360	to match abstraction levels from low to high. If I'm driving to work, I better be driving my car.
+4566000	4572640	If the police are looking for a stolen car, they would be looking for red 2010 Toyota Celica.
+4573280	4578640	If I'm buying a new car, then I might be looking for just a new Toyota Celica.
+4579200	4585600	And a self-driving car would likely only need to understand whether an obstacle is a vehicle or
+4585600	4593120	not, in order to model maximum speed for future movement. We see that we want to pick the appropriate
+4593120	4599120	level of abstraction to deal with the same object, or topic, in different situations.
+4599840	4605280	But more importantly, we see that we can get from a more detailed description,
+4605280	4611200	at the bottom, to a more generic one, higher up, by simply discarding some detail.
+4611200	4617520	I hasten to point out that reduction is more complicated than this simple example of decreasing
+4617520	4624480	specificity shows. What we need to start somewhere in this image allows us to form intuitions that
+4624480	4631680	will serve for a while. True reduction involves operations like shifting from syntax to semantics
+4631680	4639680	or from instance to type. The appearance of car as an abstraction of Toyota, and the step from
+4639680	4647840	my Toyota to a Toyota illustrates these steps. Algorithms for these things are known.
+4648640	4656000	Salience, part of the trick is to know what to discard. At each level of abstraction,
+4656000	4663760	something can typically be identified as the least important property. Red and Celica are more
+4663760	4673280	significant than 2010 for anyone looking for a car. If we had started from my red 2010 Toyota
+4673280	4681360	truck, then the word truck would not be discarded until the top level. Reduction requires understanding
+4681360	4689440	what's relevant. In reduction we keep that which is salient. More later, partial reductions.
+4689440	4697360	Most of the time we do not perform reduction all the way to models. I cannot stress this enough.
+4698000	4705120	We discuss reduction to models for pedagogical reasons. It is easy to initially see the context
+4705120	4712960	free model as the goal of reduction. In reality, in brains, we can stop reducing the moment we
+4712960	4719680	recognize that we have a working answer or response, such as a command to contract some muscle or
+4719680	4726000	having understood the meaning of a sentence subconsciously. At this point, there is still
+4726000	4732160	some residual context but we use that context productively rather than discard it to move
+4732160	4740160	to higher levels. Some people claim we use models for all our thinking, but I'm using capital M
+4740160	4748160	model only to describe a completely context free abstraction. F equals M A is an example of that.
+4748880	4755920	There is no need to check whether a car is a red car or a Toyota. The equation works not only for
+4755920	4763680	all cars but for all forces, masses and accelerations. We might come up with a special equation for
+4763680	4769760	acceleration of Tesla cars which would require different inputs like battery charge level
+4769760	4776480	and software settings. That would not be a context free model since it would not work on a Toyota.
+4777120	4785280	For almost all tasks, basically, in everything except science and even there, only rarely,
+4785280	4792800	we only perform as much reduction as is necessary to get the job done. When learning to ski,
+4792800	4798560	you only figure out how you yourself need to perform given your body and equipment.
+4798560	4804880	We do not need to parameterize our skiing skills for someone with twice the body mass
+4804880	4811040	because that would be useless to us for the purpose of our own skiing. But a scientist would
+4811040	4817840	have to go that far in order to parameterize away one more piece of context from the model
+4817840	4824720	they are creating. For instance, when creating a skiing video game or designing a new ski,
+4824720	4830960	if we consider the enormous amount of subconscious activity that happens in the brain,
+4830960	4837520	we can safely say that partial reductions are the most common reductions. For instance,
+4837520	4844320	when we take a step forward, our subconscious has analyzed our posture and velocity by using
+4844320	4850000	reduction based on low level nerve signals and is commanding leg muscles to contract an
+4850000	4857040	up precisely timed sequence. This activity is something we are unaware of. Most of us don't
+4857040	4864000	even know what leg muscles we have. And there would be no time to perform reduction all the way to
+4864000	4870560	models. That process takes a minimum of a half second and you don't have that kind of time
+4870560	4877040	available to respond to an imbalance when walking or skiing. Reduction in society.
+4877040	4884240	Most of us get paid to understand whatever we need to understand in order to perform our jobs.
+4884880	4891760	In other words, most of us get paid to do reduction. If you are approving building permits,
+4891760	4900160	you reduce a stack of forms to a one bit verdict of approved or rejected. We accelerate reduction,
+4900160	4904720	and this is the main reason most of us haven't been replaced by robots.
+4904720	4911440	But we see that when future understanding machines can perform reduction by themselves,
+4911440	4916160	then we are unlikely to get paid for it. Levels of reduction.
+4916960	4923040	Suppose a young man and a young woman fall in love, something happens to mess it all up,
+4923040	4928400	and then they sort this out and reunite. This is what happened in the man's,
+4928400	4935440	which mundane reality. Suppose the man wants to share this experience, because there was some
+4935440	4940800	moral to the story that he thinks would be interesting to others and possibly important.
+4941440	4947120	He could analyze what happened and figure out which were the key events in the saga and then
+4947120	4954160	have actors on a stage re-enact the story as a play. This is a reduction because the boring parts
+4954160	4961040	of the story would not be part of the play. They are discarded as irrelevant, but the story would
+4961040	4968080	be acted out by real people in front of a live audience. If you are in the audience, you can move
+4968080	4974480	your head to see behind any actor on the stage and you can clearly see everything on the stage,
+4974480	4982080	not just one actor speaking at a time. He can make a movie about it. Now your point of view
+4982080	4989520	is pre-defined by the camera angle and cropping. You can no longer see behind an actor, and you
+4989520	4996320	can often only see those actors that are involved in the main action. He could write a book about it.
+4996960	5003040	We no longer can see even the people described in the book, except in our imagination.
+5003760	5011280	A critic review in the theater play may reduce it to, Boy meets girl, Boy loses girl, Boy gets
+5011280	5018640	girl. A drama school graduate may summarize it as a double reversal plot. This is a description
+5018640	5026160	that is so free from context, doesn't even specify boys or girls that it could be argued it qualifies
+5026160	5035360	to be called a model. Plays, movies, books, stories, tropes, etc. are all partial reductions of
+5035360	5043920	reality, and some are more reduced than others. Just like in the red Toyota case, we need to find
+5043920	5050960	the appropriate level of abstraction to work with. The young man in the example, when writing a
+5050960	5057600	book or a screenplay, has much in common with a scientist trying to describe something in nature
+5057600	5064560	in a reusable context free manner by reducing it to a model. They are model makers, or are at
+5064560	5071360	least performing partial reduction. They are discarding the irrelevant bits. The opposite of
+5071360	5078640	reduction. We also need to be able to move in the opposite direction, from models to reality,
+5079280	5086240	or at least from more abstract partial models to partial models closer to reality. When an actor
+5086240	5092560	is given a screenplay, they know it only contains rough directions for what to do and what lines
+5092560	5100160	to say. The actor's job is to give a little of themselves to flesh out the screenplay to actual
+5100160	5108720	actions, including creating, synthesizing, the appropriate display of emotions, tone of voice,
+5108720	5116160	and body language. They use their experience as people and as actors. They use elements of their
+5116160	5122320	past lives and skills they have acquired by training to create something people in the audience
+5122320	5130080	might relate to. For example, they may repurpose a personal experience. He is sad as when my
+5130080	5138880	hamster died. Things they learned in drama school, such as speaking, singing, dancing, and swordplay,
+5138880	5146720	from other actors, what would bogart do, from fiction, from other movies and plays, etc.
+5146720	5154880	The actor's artist who convey whatever the script intends to convey, emotions, a morality cookie,
+5154880	5162800	a political position, titillation, surprise, and so on. Starting from the simple model,
+5162800	5169360	the screenplay, their job is similar to an engineer's when they are faced with a problem
+5169360	5175440	and use a model to solve it. The engineer would use their experience to decide that
+5175440	5182560	M is the mass of the car and not the tire pressure. The actor decides that sadness
+5182560	5191280	is more appropriate than grief for a certain scene, etc. I call this process, which is the
+5191280	5199280	opposite of reduction by the name it is used in problem solving application. We use a model to
+5199280	5207360	simplify a problem situation, moving it into an abstract and pure model space. We solve the
+5207360	5215040	problem there by performing math, perhaps, and then apply the answer to our rich reality
+5215040	5222080	to the problem we are trying to solve. Many of you may recognize the word application or
+5222080	5229840	its abbreviation, app. That's not as far-fetched as it might seem. Apps are software-based models.
+5230560	5236240	Reduction in application and brains. Back to the issue of partial reductions.
+5236960	5244400	Consider the actor reading a screenplay. They are using their eyes to gather pixels of color
+5244400	5252320	and orientation. The brain then performs pattern matching, reduction, from these low-level signals
+5252320	5260160	to letters, words, to language, to high-level concepts like love and separation, and eventually
+5260160	5266560	to a high-level understanding of the playwright's intents. The actor then takes this high-level
+5266560	5272640	understanding and by performing application, they add their own experience to the script
+5272640	5279360	to get closer to reality and their performance. Our brains are capable of moving up and down
+5279360	5286080	many levels of abstraction at once. Perhaps it tracks all of them simultaneously,
+5286080	5292080	keeping layers of abstraction separate. This is a clue for why deep neural networks
+5292080	5296960	perform better than shallow ones. Which is what we'll discuss next.
+5296960	5305120	Chapter 5. Why Deep Learning Works. Deep learning performs epistemic reduction.
+5306320	5312720	A math-free computer science-free description of why deep learning works. We have now built
+5312720	5319440	a base of theory for why AI works, what models are, and how to create them, what reductionism
+5319440	5327040	and holism are, and what the process of reduction is. These are the fundamentals of AI epistemology.
+5327760	5333760	This base allows us to discuss various strategies to move towards understanding machines in a
+5333760	5340240	well-understood and controlled manner. We are now ready to discuss why deep learning,
+5340240	5347920	DL, works. This is the fifth and last entry in the AI epistemology primer. Deep learning
+5347920	5354080	performs reduction. This is an unsurprising claim, considering the preceding chapters.
+5354800	5361680	There are several mutually compatible theories for how deep learning works. But just as in
+5361680	5368640	the first chapter, we will now discuss the epistemological aspects, why it works,
+5368640	5375520	from several viewpoints and levels, starting from the bottom. We would use examples from the
+5375520	5382720	TensorFlow system and API as a library, as a stand-in for all deep learning family algorithms
+5382720	5389680	and TF programs, because the available API functions heavily shape and constrain solutions
+5389680	5395040	that can be implemented in this space. And the generalization should be straightforward enough.
+5395760	5401280	Consider the following illustration of image understanding using Keras, an excellent
+5401280	5408400	abstraction layer on top of TensorFlow. I like to refer to the input layer as being
+5408400	5414880	on the bottom rather than at the far left as in this image. When viewing it my way,
+5414880	5420560	the low to high dimension we use in my rotated version of the image can be mentally mapped
+5420560	5427360	to a low to high stack of abstraction levels. I'm not the only one using this dimension this way.
+5427360	5433920	I hope this rotation isn't too confusing. We can see that there is an obvious data reduction
+5433920	5440400	and an obvious complexity reduction. Can we determine whether the system is also performing
+5440400	5447360	what I'd like to call the epistemic reduction? Is it reducing a way that which is unimportant?
+5447360	5453840	And if so, how does it accomplish this? How does an operator in a deep learning stack
+5453840	5461120	know what makes something important? Salient, up your data, reduction of sorts could be
+5461120	5469200	accomplished by compression schemes or even random deletion. This is undesirable. We need to discard
+5469200	5476640	the non-salient parts so that in the end, we are left with what is salient. Some people have not
+5476640	5482400	understood the importance of salient's based reduction and useless compression power of
+5482400	5488560	reversible algorithms as a measurement of intelligence, which is no more useful than
+5488560	5496080	believing a simple video camera can understand what it sees. So let me conjure up a bit like in
+5496080	5503440	the movie, Inside Out, a fairy tale of what goes on in a deep learning network, except we'll do it,
+5503440	5510560	bottom up. Suppose we have built a system for finding faces in an image with the intent of
+5510560	5516800	incorporating that as a feature in a camera. Many cameras have this feature already,
+5516800	5523600	so this is not a far-fetched example. We implement an image understanding neural network,
+5523600	5530720	show the system many kinds of images for a few days, perhaps using so-called supervised learning
+5530720	5537200	in order to improve this story, and then we show it an image of a family having a picnic in a park
+5537200	5543520	and ask the system to outline where the faces are so that the camera can focus sharply on them.
+5544240	5550800	The input image is converted from RGB color values to an input array and the data in this array is
+5550800	5557280	then shuffled through many layers of operators. And for many of these layers, there are fewer
+5557280	5564320	outputs than there are inputs, as you can see above, which means some things have to be discarded
+5564320	5572320	by the processing. Each layer receives initially signals, from below, that is, from the input,
+5572320	5578960	or from lower levels of abstraction, and produces some reduced output to send to the next layer
+5578960	5586080	operator above. To continue detail, at some early level, some operator is given a few
+5586080	5592000	adjacent pixels and determines that there is a vertical, slightly curved line dividing the
+5592000	5599440	darker green area from the lighter green area. So it tells the operator above the simpler line
+5599440	5606080	or color-based description using some encoding we don't really care about. The operator at the
+5606080	5612000	level above might have gotten another matching curve and says, these match what I saw a lot of
+5612000	5619040	when the label blade of grass was given as a ground truth label during supervised learning.
+5619040	5624640	If no label is known, then we again assume some other uninteresting representation.
+5624640	5631680	It is okay to propagate results without human-labeled signals because whatever signaling scheme is
+5631680	5638240	used will be learned by the level above. The operator above that says, when I get lots of
+5638240	5644320	blades of grass signals, I reduce all of that to a long signal as I send it upward.
+5644320	5650720	And eventually we reach the higher operator layers and someone there says, we are a face-finder
+5650720	5657440	application. We are completely uninterested in lawns and discards the lawn as non-cellient.
+5657440	5664320	What remains after you discard all non-faces are the faces. You cannot discard anything
+5664320	5671120	until you know what it is, or can at least estimate whether it's worth learning. Specifically,
+5671120	5679040	until you understand it at the level of abstraction you are operating at. The low-level blade of
+5679040	5684800	grass recognizers could not discard the grass because they had no clue about the high-level
+5684800	5691680	saliencies of lawn or not in face or not that the higher layers specialize in. You can only tell
+5691680	5698000	what salient or not, important or not at the level of understanding and abstraction you are
+5698000	5705280	operating at. Each layer receives lower-level descriptions from below, discards what it
+5705280	5711840	recognizes as irrelevant, and sends its own version of higher-level descriptions upward
+5711840	5717760	until we reach someone who knows what we are really looking for. This is of course why deep
+5717760	5726640	learning is deep. This idea itself is not new. It was discussed by Oliver Selfridge in 1959.
+5726640	5733920	He described an idea called, Pandemonium, which was largely ignored by the AI community because of
+5733920	5740480	its radical departure from the logic-based AI promoted by people like John McCarthy and Marvin
+5740480	5748400	Minsky. But Pandemonium presaged, by almost 60 years, the layer-by-layer architecture with
+5748400	5755120	signals passing up and down that is used today in all deep neural networks. This is the reason my
+5755120	5762720	online handle is at Pandemonica. So do any TensorFlow operators support this reduction?
+5763360	5771040	Let's start by examining the pooling operators. There are a few in the diagram. They are conceptually
+5771040	5778000	simple. There are over 50 pooling operators in TensorFlow. There is an operator named
+5778000	5787040	2x2 Max Pool operator. In the diagram, it is used four times. It is given four inputs with
+5787040	5794000	varying values and propagates the highest value of those as its only output. Close to the input
+5794000	5799680	layer of these four values may be four adjacent pixels where their values might be a brightness
+5799680	5807440	in some color channel, but higher up they mean whatever they mean. In effect, the Max Pool 2x2
+5807440	5815680	discards the least important 75% of its input data, preserving and propagating only one
+5815680	5824000	highest value. In the case of pixels, it might mean the brightest color value. In the case of blades
+5824000	5831200	of grass, it might mean there is at least one blade of grass here. The interpretation of what is
+5831200	5839200	discarded depends on the layer, because in a very real sense, layers represent levels of reduction,
+5839200	5846400	abstraction levels, if you prefer that term. And we should now be clearly seeing one of the most
+5846400	5852640	important ideas in deep neural networks, the reduction has to be done at multiple levels
+5852640	5859360	of abstraction. Each set of decisions about what is reduced away as irrelevant and what is kept as
+5859360	5866480	possibly relevant can only be made at an appropriate abstraction level. We cannot yet abstract away
+5866480	5873120	the lawn if all we know is there are dark and light green areas levels. This is a simplification.
+5873680	5879840	Decisions made in this manner will be heated only if they have contributed to positive outcomes in
+5879840	5886880	learning. Unreliable and useless decision makers will be ignored using any of several mechanisms
+5886880	5895040	that we may apply during learning. More later, for now, we continue by examining the most popular
+5895040	5902800	subset of all TensorFlow operators. The convolution family from the TensorFlow manual,
+5902800	5908960	note that although these ops are called convolution, they are strictly speaking cross
+5908960	5915840	correlation. Convolution layers discover cross correlations and co-occurrences of various kinds.
+5915840	5922640	Co-occurrences to known patterns in the image at various locations. Spatial relationships
+5922640	5929200	within an image itself, like Jeff Hinton's recent example of the mouth normally being found below
+5929200	5936560	the nose. And more obviously, in the supervised learning case, correlations between discovered
+5936560	5942800	patterns and the available meta-information, tags, labels that correlate with the patterns
+5942800	5949360	the system may discover. This is what allows an image-understander to tag the occurrence of a
+5949360	5956720	nose in an image with the text string nose. Beyond this, such systems may learn to understand
+5956720	5964320	concepts like behind and under. The information that is propagated to the higher levels in the
+5964320	5971440	network now describes these correlations. Uncorrelated information is viewed as non-salient
+5971440	5978880	and is discarded. In the Crescent diagram, this discarding is done by a max pooling layer after
+5978880	5986560	the convolution plus ReLU layers. ReLU is a kind of layer operator that discards negative values,
+5986560	5993120	introducing a non-linearity that is important for DL but not really important for our analysis.
+5993120	6001440	This pattern of three layers, convolution, then ReLU, then a pooling layer, is quite popular
+6001440	6007760	because this combination is performing one reliable reduction step. These three-layer types
+6007760	6015120	in this packaged sequence may appear many times in a DL computational graph. In each of these
+6015120	6021200	three-layer packages is reducing away things that levels below had no chance of evaluating
+6021200	6028160	for saliency because they didn't understand their input at the correct level. Again,
+6028160	6034560	this is why deep learning is deep because you can only do reduction by discarding the irrelevant
+6034560	6041280	if you understand what is relevant and irrelevant at each different level of abstraction. Is
+6041280	6048000	deep learning science or not? While the deep learning process can be described using mathematical
+6048000	6056480	notation, mostly using linear algebra, the process itself isn't scientific. We cannot explain how
+6056480	6063360	this system is capable of forming any kind of understanding by just staring at these equations,
+6063360	6068480	since understanding is an emergent effect of repeated reductions over many layers.
+6068480	6077680	Consider the convolution operators. As the TF manual quote clearly states, convolution layers discover
+6077680	6085920	correlations. Many blades of grass together typically means a lawn. In TF, a lot of cycles
+6085920	6092320	are spent on discovering these correlations. Once found, the correlation leads to some
+6092320	6097760	adjustments of some way to make the correct reduction more likely to be rediscovered
+6097760	6103280	the next round, because this reduction is done multiple times. But in essence,
+6103280	6108640	all correlations are forgotten and have to be rediscovered in every path through the deep
+6108640	6114160	learning loop of upward signaling and downward gradient descent with minute adjustments to
+6114160	6121200	erring variables. This system is in effect learning from its mistakes, which is a good sign,
+6121200	6126560	since that may well be the only way to learn anything. At least at these levels.
+6126560	6133840	This up and down may be repeated many times for each image in the learning set. This up and down
+6133840	6140400	makes some sense for image understanding. Some are using the same algorithms for text.
+6141120	6147680	Fortunately, in the text case, there are very efficient alternatives to this ridiculously
+6147680	6155200	expensive algorithm. For starters, we can represent the discovered correlations explicitly,
+6155200	6161520	using regular pointers or object references in our programming languages.
+6162320	6170320	Or, synapses in brains. This software neuron correlates with that software neuron says a
+6170320	6176800	synapse or reference connecting this to that. We shall discuss such systems in the section on
+6176800	6183760	organic learning, which is coming up next. Then either the deep learning family of algorithms,
+6183760	6190480	or organic learning, are scientific in any meaningful way. They jump to conclusions on
+6190480	6197600	scant evidence and trust correlations without insisting on provable causality. This is disallowed
+6197600	6203280	in scientific theory, where absolutely reliable causality is the coin of the realm.
+6204000	6210960	F equals m a or go home. The most deep neural network programming is uncomfortably close to
+6210960	6217840	trial and error, with only minor clues about how to improve the system when reaching mediocre results.
+6218480	6225120	Adding more layers doesn't always help. These kinds of problems are the everyday reality to
+6225120	6232080	most practitioners of deep neural networks. With no a priori models, there will be no a priori
+6232080	6238480	guarantees. The best estimate of the reliability and correctness of any deep neural network,
+6238480	6244560	or even any holistic system we can ever devise, is going to be extensive testing.
+6245200	6251440	We're on this later. Why would we ever use engineered systems that cannot be guaranteed
+6251440	6258880	to provide the correct answer? Because we have no choice. We only use holistic methods when the
+6258880	6265920	reliable reductionist methods are unavailable. As is the case when the task requires the ability
+6265920	6272320	to perform autonomous reduction of context rich slices of our rich complex reality as a whole.
+6273040	6279840	When the task requires understanding, don't we have an alternative to these under liable machines?
+6280480	6287520	Sure we do. There are billions of humans on the planet that are already masters of this complex
+6287520	6294800	task because they live in the rich world and need skills that are unavailable with reductionist methods,
+6294800	6301120	starting with low level things like object permanence. So you can replace a well performing
+6301120	6307680	but theoretically unproven contraption, a holistic understanding machine built out of deep neural
+6307680	6314080	networks, with a well performing human being using a deeply mystical kind of understanding
+6314080	6320800	hidden in their opaque heads. Who earns much more per hour. This doesn't look like much of an
+6320800	6327600	improvement. The machine cannot be proven correct because it doesn't function like normal computers.
+6328160	6336000	It is performing reduction, the skill formally restricted to animals. A holistic skill. My
+6336000	6343280	favorite soundbite is a mere corollary to the frame problem by McCarthy and Hayes. You have seen
+6343280	6349280	it and you will see it again, since it is one of the stronger results of AI epistemology.
+6349280	6356560	But we will, in but a few years, agree on a definition of intelligence that makes autonomous
+6356560	6364240	reduction a requirement. This once semi-heretic soundbite will then be obvious to all. If it
+6364240	6373600	isn't already, our intelligences are fallible. Chapter 6. Experimental Epistemology for AI
+6373600	6381040	We can now create computer based experimental implementations to epistemology level theories
+6381040	6388160	in order to test them and learn from the outcomes. Experimental epistemology is the use of the
+6388160	6394640	experimental methods of the cognitive sciences to shed light on debates within epistemology,
+6394640	6402080	the philosophical study of knowledge and rationally justified belief. Some skeptics contend that
+6402080	6409600	experimental epistemology or experimental philosophy more generally is an oxymoron.
+6410320	6417600	If you are doing experiments, they say, you are not doing philosophy. You are doing psychology
+6417600	6424080	or some other scientific activity. It is true that the part of experimental philosophy that is
+6424080	6430240	devoted to carrying out experiments and performing statistical analyses on the data obtained is
+6430240	6437600	primarily a scientific rather than a philosophical activity. However, because the experiments are
+6437600	6444560	designed to shed light on debates within philosophy, the experiments themselves grow out of mainstream
+6444560	6450480	philosophical debate and their results are injected back into the debate, with an item
+6450480	6457040	moving the debate forward. This part of experimental philosophy is indeed philosophy,
+6457040	6464960	not philosophy as usual perhaps, but philosophy nonetheless. Experimental epistemology by James
+6464960	6471680	R. B. B. Traditional experimental epistemology conducted experiments on interviews and psychological
+6471680	6478640	tests on human volunteers or relied on population statistics. As one of the newer branches of
+6478640	6484560	cognitive science, machine learning has now provided us with a very different approach
+6484560	6491440	to this domain. We can now create computer-based experimental implementations to epistemology
+6491440	6497840	level theories in order to test them and learn from the outcomes. In machine learning, the most
+6497840	6504400	important epistemology level concepts and hypotheses are about reasoning, understanding,
+6504400	6512480	learning, epistemic reduction, abstraction, creativity, prediction, attention, instincts,
+6512480	6520480	intuitions, concepts, resiliency, models, reductionism, wholism, and other things all
+6520480	6529040	sharing these features. One, science has no equations, formulas, or other models for how
+6529040	6538080	they work. They're epistemology level concepts, not science level concepts. Two, our theories
+6538080	6544720	about these concepts have to be sufficiently solid and detailed to allow for computer implementations.
+6545440	6552480	This is because science itself is built on top of epistemology level concepts, and practitioners
+6552480	6558480	need to be aware of this or they will experience cognitive dissonance-induced confusion and stress.
+6559120	6564720	The red pill of machine learning confronts the elephant in the room of machine learning.
+6564720	6572160	Machine learning is not scientific. What can we learn from AI epistemology? An excerpt from the
+6572160	6579040	red pill can say the following statements from the domain of epistemology and how each of them
+6579040	6585760	can be viewed as an implementation hint for AI designers. We are already able to measure
+6585760	6592000	their effects and system competence. You can only learn that which you already almost know.
+6592000	6601200	Patrick Winston, MIT. Our intelligences are fallible. Monica Anderson. In order to detect
+6601200	6608080	that something is new, you need to recognize everything old. Monica Anderson. You cannot
+6608080	6615120	reason about that which you do not understand. Monica Anderson. You are known by the company
+6615120	6622400	you keep, simple version of the Yanida Lemur from Category Theory and the justification for embeddings
+6622400	6628800	in deep learning. All useful novelty in the universe is due to processes of variation and
+6628800	6637200	selection. The selectionist manifesto. Selectionism is the generalization of Darwinism. This is
+6637200	6645920	right genetic algorithms work. Science has no equations for concepts like understanding, reasoning,
+6645920	6651760	learning, abstraction, or modeling since they are all epistemology level concepts.
+6652400	6659280	We cannot even start using science until we have decided what model to use. We must use our
+6659280	6665840	experience to perform epistemic reductions, discarding the irrelevant, starting from the messy
+6665840	6672800	real world problem situation until we are left with a scientific model we can use, such as an
+6672800	6680160	equation. The focus in AI research should be on exactly how we can get our machines to perform
+6680160	6687680	this pre-scientific epistemic reduction by themselves and the answer to that cannot be found inside
+6687680	6696000	of science. Chapter 7. The Red Pill of Machine Learning. Reductionism is the use of models.
+6696640	6705440	Holism is the avoidance of models. Models are scientific models, theories, hypotheses, formulas,
+6705440	6712480	equations, naive models based on personal experiences, superstitions, and traditional
+6712480	6720800	computer programs. The deep learning revolution of 2012 changed how we think about artificial
+6720800	6728080	intelligence, machine learning, and deep neural networks. What changed, and what does this mean
+6728080	6734800	going forward? The new cognitive capabilities in our machines are the result of a shift in the way
+6734800	6741600	we think about problem solving. It is the most significant change ever in artificial intelligence
+6741600	6749360	AI, if not in science as a whole. Machine learning, ML based systems are successfully
+6749360	6756000	attacking both simple and complex problems using novel methods that only became available after
+6756000	6763760	2012. We are experiencing a revolution at the level of epistemology which will affect much more
+6763760	6770080	than just the field of machine learning. We want to add more of these novel methods to our
+6770080	6776480	standard problem solving toolkit, but we need to understand the trade-offs and the conflict.
+6777040	6784240	I argue that understanding deep neural networks, DNNs, and other ML technologies requires that
+6784240	6791040	practitioners adopt a holistic stance which is, at important levels, blatantly incompatible with
+6791040	6797760	the reductionist stance of modern science. As ML practitioners we have to make hard choices
+6797760	6804160	that seemingly contradict many of our core scientific convictions. As a result we may get
+6804160	6810960	the feeling something is wrong. The conflict is real and important and the seemingly counter-intuitive
+6810960	6818160	choices make sense only when viewed in the light of epistemology. Improved clarity in these matters
+6818160	6823760	should alleviate the cognitive dissonance experienced by some ML practitioners and should
+6823760	6829680	accelerate progress in these fields. The title refers to the eye-opening clarity
+6829680	6836400	some machine learning practitioners achieve when adopting a holistic stance. Parallel dichotomies
+6836400	6843520	sentient sync research is natural language understanding, NLU. We are creating novel
+6843520	6850000	systems that allow computers to learn to understand human natural languages. Any one of them,
+6850000	6857440	we use deep neural networks of our own design. The goal is to achieve some kind of human-like
+6857440	6864000	but not necessarily human-level understanding. This is very different from traditional natural
+6864000	6871840	language processing, NLP, which relies on human-made models of some language, such as English,
+6871840	6878800	and perhaps models of fragments of the world. The NLP and NLU disciplines have chosen
+6878800	6885440	opposite answers to their difficult two-way choices. They are now defined by these choices,
+6885440	6891520	and we can use their stances to highlight the main conflict. The split is so deep
+6891520	6898080	that it cuts through many layers of our reality. The following dichotomies are all manifestations
+6898080	6905360	of this incompatibility at different levels, listed by impact, but discussed in no particular order.
+6905360	6915280	The main science, the complex, including the mundane, epistemology, reductionism,
+6916000	6927040	realism, meanings, reasoning, understanding, problem solving, plan it, then do it, just do it.
+6927680	6934960	Artificial intelligence, 20th century, good, old-fashioned AI machine learning,
+6934960	6944720	deep neural networks, natural language and computers, NLP, NLU. The problem-solving level
+6944720	6952080	provides many familiar examples of these issues. In our mundane lives, we solve many kinds of
+6952080	6958400	problems every day but our strategies for solving them fall into just those two categories.
+6958400	6966720	For any complicated problem, we had better have a plan before we start, but most problems
+6966720	6973920	the brain deals with every day are things we never have to think about because we do not need to plan
+6973920	6980000	a reason about them. These are the millions of low-level problems we encountered in our
+6980000	6985840	mundane life every day, and this is the world that our AIs will have to operate in.
+6985840	6993280	Consider someone walking across the floor. Their brain signals their leg muscles to contract in
+6993280	7000240	the correct cadence. Do they need to consciously plan each step? Do they reason about how to
+7000240	7006880	maintain their balance? No. They probably don't even know what leg muscles they have.
+7007600	7014160	Consider understanding this sentence. Did you use reasoning? Did you use grammar?
+7014160	7020640	If you are a fluent speaker, you do not need grammars to understand or produce language,
+7021280	7028400	and you do not have time to reason about language while hearing it spoken. Reasoning is slow,
+7028400	7034240	but understanding is instantaneous. Consider someone braking for a stoplight.
+7034960	7041440	How hard should they push on the brake pedal? Do they compute the required differential equation?
+7041440	7045840	Should such equations be part of the driver's license test?
+7046560	7053520	Consider someone making breakfast. Did they have to reason about anything or plan anything,
+7053520	7060240	or did they just do what worked yesterday, without thinking about it? Without consciously planning
+7060240	7068240	it? Walking and talking, braking and breakfasting, like almost everything we use our brains for,
+7068240	7074480	rely on learning from our experiences in order to reuse anything that has worked in the past,
+7075120	7083040	and, over time, we learn to correct our mistakes. These strategies are simple enough that we can
+7083040	7089360	identify them in other life forms. Dogs understand a lot but do not reason much,
+7089920	7096240	and we can see how they could be implemented in something like neurons and brains. The split
+7096240	7102960	in our brains between reasoning and understanding was examined at length in Thinking Fast and Slow
+7102960	7109600	by Daniel Kahneman. The absolute majority of the brain's effort is spent processing low-level
+7109600	7117760	sensory input, mostly from the eyes. He calls this System 1. It provides understanding.
+7118400	7123920	Reasoning is done by System 2 based on the understanding from System 1.
+7123920	7130080	What most problems we deal with on a daily basis do not require System 2 at all.
+7130720	7136320	Artificial intelligence and machine learning computers can solve any suitable problem when
+7136320	7143040	given sufficient human help, such as a complete plan for the solution in the form of a computer
+7143040	7151440	program and valid input data. But since the AIML Revolution of 2012, we now know how to make
+7151440	7158240	computers understand certain problem domains through machine learning. The acquired understanding
+7158240	7165920	allows the machine to just do it for many different problems in the domain, without any human planning,
+7165920	7174320	reasoning, or programming, and using incomplete, unreliable, and noisy input data. This is
+7174320	7182000	changing how we are building systems with cognitive capabilities. Everyone working in ML or AI needs
+7182000	7188880	to understand the trade-offs we must make at the most fundamental, epistemological levels.
+7189520	7195760	Modern ML requires examining and seriously rethinking many things we were taught to vigilantly
+7195760	7205040	strive for in our science, technology, engineering, and mathematics STEM educations. Things like
+7205040	7212400	correlation is bad, but causality is good and do not jump to conclusions on scant evidence
+7212400	7219200	are still solid advice everywhere inside science. But when building understanding systems,
+7219200	7226000	these established strategies and modes of thinking no longer work, because correlation discovery and
+7226000	7233520	handling of sparse, unreliable, and inconsistent input data are exactly the kinds of tasks we will
+7233520	7242240	have to perform and perform well at these pre-scientific levels. In order to understand how to do this,
+7242240	7249600	we must switch to a holistic stance. A motivating example, beginning machine learning students
+7249600	7256720	are given exercises like this. They are given a large spreadsheet, which lists data about houses
+7256720	7263600	sold a certain year in the US. This information includes among other things, the zip code of the
+7263600	7270720	house, the living area and square feet, lot size, the number of bedrooms and bathrooms,
+7270720	7277600	the year the house was built, and the final sale price of the house. We would like to be able to
+7277600	7284560	predict this final sale price, given the corresponding data for current house we are about to list for
+7284560	7290960	sale. The given spreadsheet is the data the student will use to train a deep neural network.
+7291520	7297200	It is the entire learning corpus. It contains everything the system will ever know.
+7297200	7305440	These students can download deep neural network libraries like Keras and TensorFlow and runnable
+7305440	7313280	examples for many kinds of problems, including useful training data from places like Hugging Face
+7313280	7321600	and GitHub. Next the student trains, learns their network using the given data. This may take a while,
+7321600	7328400	but when learning finishes, they can give the system data for a house it has never seen and
+7328400	7335040	it will quite reliably predict what the house might sell for. This was the goal of the exercise.
+7335680	7342240	The student has created a system that understands how to estimate real estate prices from listings,
+7342880	7349680	but the student still does not understand anything about real estate. The predictive capability
+7349680	7356160	that many people working in real estate would be willing to pay money for is 100% based on
+7356160	7362880	understanding in the deep neural network, in the computer, and because all the libraries in many
+7362880	7369520	pre-sold examples of this nature were freely available, the student did not have to do much
+7369520	7378880	programming either. The vision. This is desirable. This is what AI should mean. The computer understands
+7378880	7385840	the problem so that we don't have to. Programming in the future will be like having a conversation
+7385840	7392400	with a competent coworker, and when the machine understands exactly what we want done, it will
+7392400	7400080	simply do it. No programming required on our part or on part of the machine, once a suitable,
+7400080	7407360	partially reductionist framework exists. The rest is learning and it can be done in any human
+7407360	7414080	language with equal ease. We are on the right track towards something worthy of the name AI
+7414080	7420960	with current machine learning. Going forward, there are thousands of paths to choose from,
+7420960	7427360	and the ability to choose wisely will depend on our ability to understand and adopt a holistic
+7427360	7434480	stance. Reductionism and Holism. These are important terms of the art in epistemology.
+7434480	7442320	Both of them have numerous correct, useful, and compatible definitions. We will henceforth
+7442320	7449360	use the following definitions for reasons of usefulness and simplicity. Reductionism is the
+7449360	7459040	use of models. Holism is the avoidance of models. Models are scientific models, theories, hypotheses,
+7459040	7467040	formulas, equations, naive models based on personal experiences, superstitions, if you can
+7467040	7474640	believe that, and traditional computer programs. In the reductionist paradigm, these models are
+7474640	7482800	created by humans, ostensibly by scientists, and are then used, ostensibly by engineers,
+7482800	7489600	to solve real world problems. Model creation and model use both require that these humans
+7489600	7497120	understand the problem domain, the problem at hand, the previously known shared models available,
+7497120	7504400	and how to design and use models. A PhD degree could be seen as a formal license to create new
+7504400	7512720	models. Mathematics can be seen as a discipline for model manipulation. But now, by avoiding the
+7512720	7520560	use of human-made models and switching to holistic methods, data scientists, programmers, and others
+7520560	7528080	do not themselves have to understand the problems they are given. They are no longer asked to provide
+7528080	7534720	a computer program or to otherwise solve a problem in a traditional reductionist or scientific way.
+7535440	7542000	Holistic systems like DNNs can provide solutions to many problems by first learning about the
+7542000	7549360	domain from data-insult examples, and then, in production, to match new situations to this
+7549360	7556000	gathered experience. These matches are guesses, but with sufficient learning, the results can be
+7556000	7563440	highly reliable. We will initially use computer-based holistic methods to solve individual and specific
+7563440	7571520	problems, such as self-driving cars. Over time, increasing numbers of artificial understanders
+7571520	7578320	will be able to provide immediate answers, guesses, to wider and wider ranges of problems.
+7579040	7584720	We can expect to see cell phone apps with such good command of language that it feels like
+7584720	7591120	talking to a competent co-worker. Voice will become the preferred way to interact with our
+7591120	7598880	personal AIs. Early and low-level but useful AI will manifest as computers that can solve problems
+7598880	7605520	we ourselves cannot or cannot be bothered to solve. They need not be superhuman.
+7606080	7612400	All they need to have in order to be extremely useful is exactly the ability to autonomously
+7612400	7619040	discover higher-level abstractions in some given problem domain, starting from low-level sensory
+7619040	7626320	input, for example, by learning from images or reading books. Such systems now exist.
+7626320	7632560	If we want to understand machine learning, then we need to understand all the strategies in the
+7632560	7639040	right most column in the tables that follow. They are all part of a holistic stance, and if we are
+7639040	7646000	working in machine learning, we need to adopt as many of them as possible. Differences at the level
+7646000	7655600	of epistemology. Reductionism in Science versus Holism in Machine Learning. The use of
+7655600	7666320	models versus the avoidance of models. Raising versus understanding requires human understanding
+7666320	7674800	versus provides human-like understanding. Problems are solved in an abstract model space versus
+7674800	7681520	problems are solved directly in the problem domain. Unbeatable strategy for dealing with
+7681520	7688080	a wide range of suitable problems faced by humans. Versus may handle some problems in
+7688080	7694560	domains where reductionist models cannot be created or used, known as bizarre domains.
+7695840	7701760	Handles many important complicated problems such as going to the moon or a highway system.
+7702400	7708400	Versus handles many important complex problems such as protein folding and playing go.
+7708400	7717840	Handles problems requiring planning or cooperation. Versus handles simple mundane problems such as
+7717840	7725360	understanding language or vision or making breakfast. Money rows in these tables discuss
+7725360	7732560	hard trade-offs where compromises are impossible or prohibitively expensive. These are identified
+7732560	7739120	by bold face numbers in the first column. The meaning rows may not be clear trade-offs or even
+7739120	7746640	disjoint alternatives. Mixed systems are described in a separate chapter. These form the core of
+7746640	7752240	these dichotomies and are discussed in most of what follows, but also in detail at the
+7752240	7759120	chapter on introducing AI epistemology and in videos of talks. A leather report is based on
+7759120	7766240	models in meteorology. To solve the problem directly in the problem domain, open a window
+7766240	7774000	to check if it smells like rain. Reductionism is the greatest invention our species has ever made.
+7774640	7780480	But reductionist models cannot be created or used when any one of the multitudes of blocking
+7780480	7788560	issues are present. Models work, in theory or in a laboratory where we can isolate a device,
+7788560	7797120	organism or phenomenon from a changing environment. However, complex situations may involve tracking
+7797120	7803360	and responding to a large number of conflicting and unreliable signals from a constantly changing
+7803360	7810000	world or environment. Reductionism is here at a severe disadvantage and can rarely perform
+7810000	7816560	above the level of statistical models. In contrast, holistic machine learning methods
+7816560	7822400	learning from unfiltered inputs can discover correlations that humans might miss and can
+7822400	7828800	construct internal pattern-based structures to provide recognition, epistemic reduction,
+7828800	7836880	abstraction, prediction, noise rejection and other cognitive capabilities. Humans generally
+7836880	7844080	use holistic methods for seemingly simple, but in reality, complex mundane problems
+7844080	7850720	like understanding vision, human language, learning to walk, or making breakfast.
+7851360	7858960	Computers use them for very complex problems and mel-based AI in general, such as protein folding
+7858960	7866000	and playing go, but also simpler ones, such as real estate pricing. Main trade-offs.
+7866000	7875600	Reductionism in science versus realism in machine learning. Optimality, the best answer,
+7875600	7884880	versus economy, reuse no useful answers. Completeness, all answers, versus promptness,
+7884880	7893600	except first use for a answer. Repeatability, same answer every time, versus learning,
+7893600	7902960	versus learning, results improve with practice. Extrapolation, in low-dimensionality domains,
+7902960	7912160	versus interpolation, even in high-dimensionality domains. Transparency, understand the process
+7912160	7919280	to get the answer, versus intuition, accept useful answers even if achieved by unknown or
+7919280	7928880	subconscious means. Explainability, understand the answer, versus positive ignorance, no need to
+7928880	7936800	even understand the problem or problem domain. Shareability, abstract models are taught in
+7936800	7944960	communicated using language or software, versus copyability. ML understanding, a competence
+7944960	7953200	can be copied as a memory image. Optimality, completeness, and repeatability are only available
+7953200	7960320	in theoretical model spaces and sometimes under laboratory conditions. Economy and promptness
+7960320	7966160	had much higher survival value in evolutionary history than optimality and completeness.
+7966800	7972960	The strongest hint that a system is holistic is that the results improve with practice because
+7972960	7979840	the system learns from its mistakes. In machine learning, a larger learning corpus is in general
+7979840	7986480	better than the smaller one because it provides more opportunities for making mistakes to learn from,
+7986480	7993680	such as corner cases. Models created by humans have manageable numbers of parameters because
+7993680	7999280	the scientist or engineer working on the problem has done a, hopefully correct,
+7999280	8006880	epistemic reduction from a complex and messy world to a computable model. This allows experimentation
+8006880	8013600	with what if scenarios by varying model parameters. It is up to the model user to determine which
+8013600	8020800	extrapolations are reasonable. In holistic ML systems, we are getting used to systems with
+8020800	8027200	millions or billions of parameters. These structures are very difficult to analyze,
+8027200	8033280	and just like with human intelligences, the best way to estimate their competence is through
+8033280	8041120	testing. Extrapolation is typically out of scope for holistic systems. The majority of end users
+8041120	8047440	will have no interest in how some machine came up with some obviously correct answer. They will
+8047440	8054800	just accept it the way we accept our own understanding of language, even though we do not know how we
+8054800	8062720	do it. We now find ourselves asking our machines to solve problems we either don't know how to solve,
+8062720	8070320	or can't be bothered to figure out how to solve. We have reached a major benefit of AI. We can be
+8070320	8076240	positively ignorant of many mundane things and will be happy to delegate such matters to our
+8076240	8083680	machines so that we may play or focus on more important things. Some schools of thought tend to
+8083680	8091920	overvalue explainability. To them, ML is a serious step down from results obtained scientifically
+8091920	8098560	where we can all inspect the causality, for instance in a reductionist production, expert
+8098560	8106000	systems. But the bottom line is that today we can often choose between one, understanding the
+8106000	8114640	problem domain, problem, the use of science and relevant models, and the answer. Or two, just
+8114640	8120480	getting a useful answer without even bothering to understand the problem or the problem domain.
+8121120	8128480	The latter, positive ignorance, is a lot closer to AI than the first, and we can expect the use
+8128480	8135760	of holistic methods to continue to increase. Science strives towards a consensus world model in order
+8135760	8141840	to facilitate communication and minimize costly engineering mistakes caused by ignorance and
+8141840	8149840	misunderstandings. Scientific communication requires a high-level context, a world model,
+8149840	8157840	shared by participants, and agreed upon signals such as words, math, and software. But direct
+8157840	8164960	understanding, such as the skills to become a just grandmaster or a downhill skier, cannot be
+8164960	8172800	shared using words. The experience must be acquired using individual practice. Computer-based systems
+8172800	8178720	that learn a skill through practice can share the entire understanding so acquired by copying the
+8178720	8184000	memory content to another machine. Advantages of Holistic Methods
+8185200	8190000	Reductionism in Science versus Holism in Machine Learning
+8190000	8198080	N.P. Hard Problems cannot be solved, versus fines-valid solutions by guessing well-based
+8198080	8206160	on a lifetime of experience. Geigo, garbage in, garbage out is a recognized problem,
+8206800	8211440	versus copes with missing, erroneous, and misleading inputs.
+8211440	8219200	Brightness. Experience catastrophic failures at edges of competence, versus anti-fragile.
+8219200	8227040	Learns from mistakes, especially almost correct guesses in small, correctable failures.
+8228240	8233600	The models of a constantly changing world are obsolete the moment they are created,
+8234160	8240080	versus incremental learning provides continuous adaptation to a constantly changing world.
+8240080	8245360	Algorithms may be incorrect or may be incorrectly implemented,
+8246000	8252640	versus self-repairing systems can tolerate or correct internal errors. It is because we desire
+8252640	8261520	certainty, optimality, completeness, etc. L.N.P. Hardness becomes a problem. There are many
+8261520	8267440	problems where it is relatively easy to find a provably valid solution, but where finding
+8267440	8274320	all solutions can be very expensive. Real-world traveling salesmen merrily travel long reasonable
+8274320	8281280	routes. If a reductionist system does not have complete and correct input data, it either cannot
+8281280	8288000	get started or produces questionable output. But it is an important requirement of real-world
+8288000	8294160	understanding machines that they be able to detect what is salient, important, in their input in
+8294160	8302080	order to avoid paying attention to, and learning from, noise. And they have to deal with incomplete,
+8302080	8307840	erroneous, and misleading input generated by millions of other intelligent agents with
+8307840	8315360	goals at odds with their own. They need to be able to detect omissions, duplications, errors,
+8315360	8322800	noise, lies, etc. And the only epistemologically plausible way to do this is to relate the input
+8322800	8330160	to similar input they have understood in the past, what they already know. They need to understand
+8330160	8337360	what matters but if they can also understand some of the noise. This is advertising, they can exploit
+8337360	8343920	that. There are many image and video apps available featuring image understanding based on deep
+8343920	8351440	learning. These apps can remove backgrounds, sharpen details like eyelashes, restore damaged
+8351440	8359120	photographs, etc. We need to keep in mind that the ability of holistic systems to fill in data
+8359120	8365920	and detect noise depends on them having learned from similar data in the past. We note that all
+8365920	8371920	the image improvements are confabulations based on prior experience from their learning corpora.
+8372560	8379280	But we can also note that image composition using these methods yields totally seamless images,
+8379280	8387040	very far from cut and paste of pixels. And quite similarly, we find language confabulation by
+8387040	8394880	systems like GPT-3 to flow seamlessly between sentences and topics. They have nothing to say,
+8394880	8401760	but they say it well. However, they bring us closer to meaningful language generation and
+8401760	8408000	when we achieve that, the public perception of what computers are capable of will totally change.
+8408000	8415040	Most of cognition is recognition. Being able to recognize that something has occurred before
+8415040	8422560	and knowing what might happen next has enormous survival value for any animal species. A mature
+8422560	8429280	human has used their eyes and other senses for decades. This represents an enormous learning
+8429280	8436880	corpus and they can understand anything they have prior experience of. The mistakes made by humans,
+8436880	8443840	animals and by holistic ML systems are very often of a near-miss variety which provides an
+8443840	8450640	opportunity to learn to do a better next time. Contrast is to reductionist software systems
+8450640	8457120	created for similar goals. Rule-based systems have long been infamous for their brittleness.
+8457760	8463360	As long as the rules and the rules that match the current input and reality perfectly,
+8463360	8470320	the results will be useful, repeatable and reliable. But at the edges of their competence,
+8470320	8477280	where the matches become more tenuous, the quality rapidly drops. Minor mistakes in the
+8477280	8484160	rule sets in the world modeling may lead such systems to return spectacularly incorrect results.
+8484880	8490400	Sometimes repeatability is important and sometimes tracking a changing world by
+8490400	8497600	continuously learning more about it is important. In ML, continuous incremental learning makes
+8497600	8504480	it possible to stay up to date. If we want repeatability, we can emit a condensed,
+8504480	8510800	cleaned and frozen competence file from a learner that can be loaded into non-learning,
+8510800	8516880	read-only, cloud-based understanding machines that serve the world and provide repeatability
+8516880	8524160	between scheduled software and competence releases. Three, in the case of reductionist systems,
+8524160	8530480	such as cell phone OS releases, we are used to getting well-tested new versions with minor bug
+8530480	8538080	fixes and occasional major features at regular intervals. Such systems learn only in the sense
+8538080	8543520	that the people who created them have learned more and put these insights into the new release.
+8543520	8549760	Reductionist systems working with complete incorrect input data are expected to provide
+8549760	8554720	correct and repeatable results according to the implementation of the algorithm.
+8555360	8562080	But both the algorithm and the implementation may have errors. If the algorithm does not adequately
+8562080	8569360	model its reality, then we have reduction errors. In the implementation, we may have bugs.
+8569360	8574960	Holistic software systems can be designed to a different standard of correctness.
+8575680	8582320	Since input data is normally incomplete and noisy, and results are based on emergent effects,
+8582320	8588080	we can expect similar enough results even if parts of the system have been damaged,
+8588080	8594000	for instance by catastrophic forgetting. Holistic systems can be made capable of
+8594000	8600160	self-repair using incremental learning. This has been observed in the deep learning community.
+8600800	8605600	Another technique is that when using multiple parallel threads in learning,
+8605600	8610080	there may be conflicts that would normally require locking of some values.
+8610800	8616240	But if the operations are simple enough, such as just incrementing a value,
+8616240	8622240	we can forego thread safety in the locking since the worst outcome is the loss of a single increment
+8622240	8628560	in a system that uses emergent results from millions of such values. And the mistake would,
+8628560	8635600	in a well-designed system, be self-correcting in the long run. At the cloud level, absolute
+8635600	8642640	consistency may not be as hard a requirement as it is for reductionist systems. Much larger
+8642640	8648880	mistakes can be expected to be attributable to misunderstandings of the corpus or poor corpus
+8648880	8657280	coverage. General strategies, decomposition into smaller problems, versus generalization
+8657280	8664720	may lead to an easier problem. Assuming discards everything irrelevant based on how new information
+8664720	8670880	matches existing experience, versus a machine discards everything irrelevant based on how
+8670880	8681200	new information matches existing experience, modularity, versus composability, gather valid,
+8681200	8688640	correct, and complete input data, versus use whatever information is available, and use all
+8688640	8701600	of it. Formal, rigorous methods, versus informal ad hoc methods, absolute control, versus creativity,
+8701600	8710160	intelligent design, versus evolution. The reductionist battle cries, the whole is equal to the sum
+8710160	8717120	of its parts, which gives us a license to split a large complicated problem into smaller problems
+8717120	8723600	to solve each of those using some suitable model, and then to combine all the sub-solutions
+8723600	8731120	into a model-based solution for the original, larger problem, such as in moonshots, highway
+8731120	8738640	systems, international banking, and generally in industrial intelligent design. This works
+8738640	8745520	in simple and some complicated domains, but cannot be done in complex domains, where everything
+8745520	8752240	potentially affects everything else. Spreading a complex system may cause any emergent effects
+8752240	8760960	to disappear, confounding analysis. Examples of complex problem domains are politics, neuroscience,
+8760960	8769200	ecology, economy, including stock markets, and cellular biology. Our life sciences operate
+8769200	8777520	in a complex problem domain because life itself is complex. Some say biology has physics envy,
+8777520	8783280	because in the life sciences, reductionist models are difficult to create and justify.
+8784000	8791520	On the other hand, physics is for simple problems. Problems with many complex interdependencies and
+8791520	8798640	unknown webs of causality can now be attacked using deep neural networks. These systems discover
+8798640	8804720	useful correlations and may often find solutions using mere hints in the input which match their
+8804720	8810400	prior experience. Reductionist strategies with correctness requirements outlaw this.
+8811040	8817520	It is notable that one of the larger triumphs of holistic methods is protein folding, which is a
+8817520	8824400	problem at the very core of the life sciences. So holistic understanding of a complex system
+8824400	8831120	can be acquired by observing it over time and learning from its behavior. There is no need to
+8831120	8838480	split the problem into pieces. Part of the holistic stance is that we give the machine everything.
+8838480	8847680	Holism comes from the Greek word, holos, amicron, lambda, amicron, sigma, in the written text.
+8847680	8855840	The whole, that is to say, all the information we have. If we start filtering the input data,
+8855840	8862400	by cleaning it up, then the system will effectively learn from a polyana version of the world,
+8862400	8868400	which will be confusing once it has to deal with real life inputs in a production environment.
+8868960	8874320	If we want our machines to learn to understand the world all by themselves,
+8874320	8880720	then we should not start by applying heavy-handed heuristic cleanup operations of our own design
+8880720	8888080	on their input data. Sometimes, reductionist strategies are clearly inferior. The natural
+8888080	8894080	language understanding is such a domain. Language understanding in a fluent speaker
+8894080	8901840	is almost 100% holistic because it is almost entirely based on prior exposure. We are now
+8901840	8907760	finding out that it is much easier to build a machine to learn any language on the planet from
+8907760	8914560	scratch than it is to build a good old-fashioned artificial intelligence, 20th century reductionist
+8914560	8921520	AI-based style machine that understands a single language such as English. The process where a
+8921520	8928080	human, by using their understanding, discards everything irrelevant to arrive at what matters
+8928080	8934240	is called the epistemic reduction and is discussed in the first five chapters in this book.
+8934960	8941760	This is the most important operation in reductionism, but for some reason discussions of reductionism
+8941760	8949920	in the past have tended to focus on other aspects. Perhaps this is a new result. ML systems discard
+8949920	8956560	with little fanfare anything that was expected and that has been seen before as boring, harmless,
+8956560	8963520	or otherwise ignorable. They may also discard things significantly outside of their experience
+8963520	8970160	as noise. Things can only be reduced away at the semantic level. They can be recognized that
+8970880	8977200	operations capable of epistemic reduction at multiple layers discard anything that's understood
+8977200	8983760	at that layer, and they may pass on upward to the next higher semantic layer, a summary of what
+8983760	8990400	they discarded plus everything they did not understand at their level. Empire levels do the
+8990400	8997520	same. This is why deep learning is deep. Intelligently designed systems are often made up out of
+8997520	9004160	interchangeable modules, which allow for easy replacement in case of failure, and in some
+9004160	9010960	cases, and especially in software, allow for customization of functionality by replacing
+9010960	9017280	or adding modules. These modules have well specified interfaces that allow for such
+9017280	9024240	interconnections. In the holistic case we can consider a human cell with thousands of proteins
+9024240	9031120	interact on contact or as required with many substances floating around in the cellular fluid.
+9031680	9035680	It is not the result of intelligent design, and it shows
+9035680	9042000	there are overlaps and redundancies that may contribute to more reliable operation, and there
+9042000	9049680	are multiple potentially complex mechanisms keeping each other in check, or we can consider music,
+9049680	9056000	or multiple notes in accord in different timbres in a symphony orchestra in a composition will
+9056000	9062640	conjure an emerging harmonic whole that sounds different than the sum of its parts, or consider
+9062640	9070560	spices in a soup, or opinions in a meeting that leads to a consensus. The word, composability,
+9070560	9077440	fits this capability in the holistic case. Unfortunately, in much literature it is merely
+9077440	9085040	used as a synonym for its reductionist counterpart, modularity. As discussed in the Geico case,
+9085040	9090960	in the section above, holistic ML systems can fill in missing details starting from
+9090960	9098240	various scant evidence. Compare for example confabulations of systems like GPT-3 and image
+9098240	9105360	enhancement apps. They supply the missing details by jumping to conclusions based on few clues
+9105360	9111840	and lots of experience. Since we are not omniscient and don't even know what is happening behind our
+9111840	9118480	backs, scant evidence is all we will ever have, but it is amazing how effective scant evidence
+9118480	9125920	can be in a familiar context. We can drive a car through fog or find an alarm clock in absolute
+9125920	9132720	darkness. The more the system has learned, the less input is needed to arrive at a reasonable
+9132720	9138560	identification of the problem and hence retrieve a previously discovered working solution.
+9139440	9145760	Formal methods and experimental rigorousness make for good science. On the other hand,
+9145760	9152480	holistic methods can follow tenuous threads, hoping for stronger threads or some solution,
+9152480	9158800	with little effort spent on backtracking or documentation because once a solution is found,
+9158800	9165200	it is the only thing that matters. Tracking has little value in non-repeating situations
+9165200	9173120	or when using holistic methods at massive scales, such as in deep learning. Absolute control requires
+9173120	9179120	that we know exactly what the problems and solutions are and all we need to do is implement them.
+9179840	9186320	Once deployed, systems frozen in this manner, which are exactly implementing the models of
+9186320	9193200	their creators, cannot improve by learning since there is no room for variation in the existing
+9193200	9200560	process and hence no experimentation and no way to discover further improvements. Only
+9200560	9208640	holistic systems can provide creativity and useful novelty. We also observe that, learning itself
+9208640	9214640	is a creative act, since it must fit new information into an existing network of prior
+9214640	9222880	experience. Just like the term, holism has been abused, so has intelligent design,
+9222880	9228400	which is a perfectly reasonable term for reductionist industrial end-to-end practice
+9228400	9235600	that consistently provides excellent results. On the holistic side, evolution in nature has
+9235600	9241840	created wonderful solutions to all kinds of problems that plants and animals need to handle.
+9242560	9247760	But we can put evolution, also known in the general sense as selectionism,
+9247760	9255440	to work for us in our holistic machines. They can create new, wonderful designs with a biological
+9255440	9262080	flavor to them that sometimes, depending on the problem, cannot perform intelligently designed
+9262080	9270480	alternatives. Evolution is the most holistic phenomenon we know. No goal functions, no models,
+9270480	9278560	no equations. Evolution is not a scientific theory. Science cannot contain it. It must be
+9278560	9286320	discussed in epistemology. Mixed systems, deep neural networks can perform autonomous epistemic
+9286320	9293040	reduction to find high-level representations for low-level input, such as pixels in an image
+9293040	9300000	or characters in text. Current vision understanding systems can reliably identify thousands of
+9300000	9305520	different kinds of objects from many different angles in a variety of lighting conditions
+9305520	9313280	and weather. They can classify what they see, but do not necessarily understand much beyond that,
+9313280	9320160	such as the expected behaviors of other, intentional Asians like cars, pedestrians,
+9320160	9328960	or cats. Therefore, at the moment in 2022, most deployments of machine learning use a mixture
+9328960	9336000	of reductionist and holistic methods, equations and formulas devised by humans implemented as
+9336000	9343040	computer code, and some inputs from a deep neural network solving a sub-problem that requires it,
+9343040	9351200	such as vision understanding. Self-driving cars use DNNs for understanding vision, radar,
+9351200	9358320	and lidar images, discovering high-level information like a pedestrian on the side of the road
+9358320	9365040	from pixel-based images and this understanding has, until recently, been fed to logic and
+9365040	9372880	role-based programs that implement the decision-making. Avoid driving into anything, period, that is used
+9372880	9379280	to control the car. The trend here is to move more and more responsibilities into the deep
+9379280	9386560	neural network, and over time to remove the hand-coded parts. In essence, the network learns
+9386560	9393760	not only to see, but learns to understand traffic. We are delegating more and more of our
+9393760	9402480	understanding of how to drive to the vehicle itself. This is desirable. Experimental Epistemology
+9403680	9410240	Epistemology is the theory of knowledge. It is concerned with the mind's relation to reality.
+9410240	9417680	This includes artificial minds. An introduction to epistemology should benefit anyone working in
+9417680	9426400	the IML field. Scientific statements look like F equals MA, Newton's second law, or E equals MC
+9426400	9433360	squared, Einstein's famous equation, and can all be proven and or derived from other accepted
+9433360	9441200	results or verified experimentally. Algebra is built on lemurs that are not part of algebra.
+9441200	9447840	They cannot be proven inside of algebra. Similarly, epistemological statements are
+9447840	9454960	not provable in science because science is built on top of epistemology. But when science is not
+9454960	9462880	helping, such as in bizarre domains, then setting scientific methodology aside and dropping down
+9462880	9470880	to the level of epistemology sometimes works. Epistemology is, just like philosophy in general,
+9470880	9477600	an armchair thinking exercise, and the results are judged on internal coherence and consistency
+9477600	9484720	with other accepted theory rather than by proofs or experiments. However, the availability of
+9484720	9492160	understanding machines, such as DNNs now suddenly provides the opportunity for actual experiments
+9492160	9498720	in epistemology. Consider the following statements from the domain of epistemology,
+9498720	9505040	and how each of them can be viewed as an implementation hint for AI designers. We are
+9505040	9512080	already able to measure their effects on system competence. You can only learn that which you
+9512080	9522720	already almost know. Patrick Winston, MIT. Our intelligences are fallible. Monica Anderson.
+9522720	9529360	In order to detect that something is new, you need to recognize everything old. Monica Anderson.
+9530640	9538320	You cannot reason about that which you do not understand. Monica Anderson. You are known by
+9538320	9545360	the company you keep, simple version of the yanni dilemma from category theory and the justification
+9545360	9552240	for embeddings in deep learning. All useful novelty in the universe is due to processes
+9552240	9560160	of variation and selection. The selectionist manifesto. Selectionism is the generalization
+9560160	9568880	of Darwinism. This is right genetic algorithms work. Science has no equations for concepts like
+9568880	9576240	understanding, reasoning, learning, abstraction, or modeling since they are all epistemology level
+9576240	9584160	concepts. We cannot even start using science until we have decided what model to use. We must use
+9584160	9590640	our experience to perform epistemic reductions, discarding the irrelevant, starting from the
+9590640	9597120	messy real world problem situation until we are left with a scientific model we can use,
+9597120	9604480	such as an equation. The focus in AI research should be on exactly how we can get our machines
+9604480	9610960	to perform this pre-scientific epistemic reduction by themselves and the answer to that
+9610960	9618400	cannot be found inside of science. Artificial General Intelligence Artificial General Intelligence,
+9618400	9626240	AGI, was a theoretical 20th century reductionist AI attempt to go beyond the narrow AIA of domain
+9626240	9633840	specific expert systems closer to a general intelligence they thought humans had. The
+9633840	9642240	term was mostly used by independent researchers, amateurs and enthusiasts. But the AGI term was
+9642240	9648400	not well enough defined and was not backed by sufficient theory to provide any AI implementation
+9648400	9655200	guidance and what little progress had been made by these groups was overtaken by holistic methods
+9655200	9663600	after 2012. Today we know that the entire premise of 20th century reductionist AGI was wrong.
+9664160	9672320	Humans are not general intelligences at birth. Instead, we are general learners capable of
+9672320	9678880	learning almost any skill or knowledge required in a wide range of problem domains. If we want
+9678880	9685760	human compatible cognitive systems, then we should build them in our image in this respect to build
+9685760	9693760	machines that learn and jump to conclusions on scant evidence. Decades ago, AGI implied a human
+9693760	9700560	programmed reductionist hand coded program based on logic and reasoning that can solve any problem
+9700560	9707040	because the programmers anticipated it. To argue against claims that this was impossible,
+9707040	9713840	the AGI community came up with a promise or threat of self-improving AI. But the amount
+9713840	9721040	of code in our cognitive systems has shrunk from 6 million propositions in sake around 1990
+9721040	9729840	to 600 lines of code to play video games around 2017 to about 13 lines of cares code in some
+9729840	9736560	research reports. And now there's AutoML and other efforts at eliminating all remaining programming
+9736560	9743760	from ML. The problems are not in the code. There's almost no code left to improve in
+9743760	9752160	modern machine learning systems. All that matters is the corpus. We can now, after 2012,
+9752160	9757840	see that machine learning is an absolute requirement for anything worthy of the name AI,
+9758640	9764240	which makes recursive self-improvement leading to evil superhuman omniscience logic based
+9764240	9771520	godlike artificial general intelligence a 20th century reductionist AI myth. We must focus on
+9771520	9779840	artificial general learners. Afterward, science was created to stop people from overrating correlations
+9779840	9785440	and jumping to erroneous conclusions on scant evidence and then sharing those conclusions
+9785440	9792960	with others, leading to compounded mistakes and much wasted effort. Consequently, promoting a
+9792960	9799840	holistic stance has long been a career-ending move in academia, and especially in computer science.
+9800560	9807440	But now we suddenly have machine learning that performs cognitive tasks such as protein folding,
+9807440	9814240	playing go, and estimating house prices at useful levels using exactly a holistic stance.
+9814880	9822080	So now science itself has a cognitive dissonance. This is a conflict about what science is or
+9822080	9829120	should be. Inherence of these stances leads people to develop significant personal cognitive
+9829120	9834560	dissonances, which is why discussions about these issues are very unpopular among people
+9834560	9843360	with solid STEM educations. But the dichotomy is real. We need to deal with it. Our choices so far
+9843360	9852960	seem to have been too. Claim that dichotomy doesn't exist. But Schrodinger and Pursig also discuss it.
+9852960	9860480	Claim that the holistic stance doesn't work. But deep learning works. Claim that reductionist
+9860480	9867840	methods are requirement, hobbling our toolkits for a principle. The reductionist stance also
+9867840	9875200	makes it difficult to imagine and accept things like systems capable of autonomous epistemic
+9875200	9883360	reduction, systems that do not have a goal function, systems that improve with practice,
+9884720	9891840	systems that exploit emergent effects, systems that by themselves make decisions about what
+9891840	9898880	matters most, systems that occasionally give a wrong answer but are nevertheless very useful.
+9899600	9906320	So after a serious education in machine learning we don't actually need to do almost any programming
+9906320	9913280	at all. And we don't need to understand anybody else's problem domains. Because we don't have
+9913280	9921040	to perform any epistemic reduction ourselves. We should recognize this for what it is. AI was
+9921040	9927200	supposed to solve our problems for us so we would not have to learn or understand any new
+9927200	9934880	problem domains. To not have to think. And that's what we have today, in machine learning,
+9934880	9941680	and with holistic methods in general. Why are some people surprised or unhappy about this?
+9942400	9948880	In my opinion, this is AI, this is what we have been trying to accomplish for decades.
+9948880	9956160	People who claim machine understanding is not AI are asking for human level human-centric reasoning
+9956160	9962880	and are, at their peril, blind to the nascent ML-based understanding we can achieve today.
+9963520	9969840	With expected reasonable improvements in machine understanding capabilities, familiarity and
+9969840	9976720	acceptance of the holistic stance will become a requirement for ML and AI-based work. It will
+9976720	9985040	likely take years for our educational system to adjust. This has been Anonika's Little Pills,
+9985040	10007760	led to you by a computer. Thank you for listening.
